@@ -1,0 +1,42 @@
+E-COMMERCE CUSTOMER ANALYSIS
+
+Total Revenue: 3782485.28
+Total Orders: 1200
+Total Customers: 293
+Average Order Value: 3152.07
+
+TOP 10 CUSTOMERS:
+Customer_ID
+CUST0129    41503.25
+CUST0160    40394.20
+CUST0221    38316.32
+CUST0187    36980.41
+CUST0224    33168.81
+CUST0186    31157.66
+CUST0296    30704.31
+CUST0047    30664.24
+CUST0106    30056.75
+CUST0132    29683.64
+
+BEST SELLING PRODUCTS:
+Product_Name
+Water Bottle         295
+Cotton T-Shirt       289
+Coffee Maker         278
+Bluetooth Speaker    256
+Smart Watch          256
+Novel                246
+Desk Lamp            244
+Running Shoes        242
+Wireless Earbuds     236
+Pen Pack             230
+Backpack             218
+Notebook Set         209
+
+SALES BY CATEGORY:
+Category
+Books              115870.43
+Electronics       1687165.84
+Fashion            859689.43
+Home & Kitchen    1038980.24
+Stationery          80779.34

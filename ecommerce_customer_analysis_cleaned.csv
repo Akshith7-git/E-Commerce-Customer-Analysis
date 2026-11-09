@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Age,Gender,City,Product_ID,Product_Name,Category,Quantity,Unit_Price_INR,Discount_Percent,Total_Amount_INR,Payment_Method
+ORD00001,2025-10-05,CUST0264,39,Other,Vijayawada,P006,Backpack,Fashion,4,1403.78,10.0,5053.61,Credit Card
+ORD00002,2025-01-28,CUST0289,36,Female,Vijayawada,P008,Coffee Maker,Home & Kitchen,4,3004.34,10.0,10815.62,UPI
+ORD00003,2025-07-21,CUST0243,57,Male,Hyderabad,P006,Backpack,Fashion,3,1339.04,20.0,3213.7,UPI
+ORD00004,2025-12-21,CUST0296,44,Male,Vijayawada,P002,Bluetooth Speaker,Electronics,2,2301.8,0.0,4603.6,Cash on Delivery
+ORD00005,2025-01-15,CUST0002,36,Female,Delhi,P002,Bluetooth Speaker,Electronics,2,2320.98,5.0,4409.86,Net Banking
+ORD00006,2025-03-30,CUST0296,44,Male,Vijayawada,P011,Pen Pack,Stationery,2,163.24,10.0,293.83,Debit Card
+ORD00007,2025-07-22,CUST0195,36,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2331.85,20.0,1865.48,Debit Card
+ORD00008,2025-12-14,CUST0247,43,Male,Pune,P003,Smart Watch,Electronics,1,3409.92,0.0,3409.92,UPI
+ORD00009,2025-09-18,CUST0280,60,Female,Mumbai,P009,Desk Lamp,Home & Kitchen,4,948.21,15.0,3223.91,Cash on Delivery
+ORD00010,2025-11-28,CUST0222,52,Male,Pune,P005,Running Shoes,Fashion,4,1727.7,10.0,6219.72,Credit Card
+ORD00011,2025-01-02,CUST0071,29,Female,Chennai,P011,Pen Pack,Stationery,2,149.44,10.0,268.99,Debit Card
+ORD00012,2025-08-11,CUST0009,21,Male,Mumbai,P010,Notebook Set,Stationery,2,268.7,0.0,537.4,Cash on Delivery
+ORD00013,2025-05-08,CUST0125,23,Male,Bengaluru,P011,Pen Pack,Stationery,3,159.53,0.0,478.59,Cash on Delivery
+ORD00014,2025-07-20,CUST0178,38,Female,Chennai,P006,Backpack,Fashion,2,1240.5,0.0,2481.0,Net Banking
+ORD00015,2025-05-05,CUST0204,47,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,3,2294.72,15.0,5851.54,Debit Card
+ORD00016,2025-07-14,CUST0300,48,Female,Vijayawada,P008,Coffee Maker,Home & Kitchen,2,2747.47,5.0,5220.19,UPI
+ORD00017,2025-09-13,CUST0057,49,Female,Bengaluru,P012,Novel,Books,4,508.5,0.0,2034.0,Debit Card
+ORD00018,2025-02-07,CUST0275,53,Male,Delhi,P003,Smart Watch,Electronics,2,3243.13,0.0,6486.26,Credit Card
+ORD00019,2025-01-07,CUST0106,57,Female,Pune,P003,Smart Watch,Electronics,3,3466.31,10.0,9359.04,Net Banking
+ORD00020,2025-12-18,CUST0103,58,Male,Hyderabad,P006,Backpack,Fashion,2,1418.3,5.0,2694.77,Cash on Delivery
+ORD00021,2025-11-24,CUST0295,31,Male,Warangal,P004,Cotton T-Shirt,Fashion,2,567.26,0.0,1134.52,Net Banking
+ORD00022,2025-03-20,CUST0273,45,Male,Warangal,P004,Cotton T-Shirt,Fashion,3,628.03,10.0,1695.68,Debit Card
+ORD00023,2025-03-30,CUST0008,41,Male,Chennai,P004,Cotton T-Shirt,Fashion,4,577.73,0.0,2310.92,Credit Card
+ORD00024,2025-04-02,CUST0263,46,Male,Hyderabad,P001,Wireless Earbuds,Electronics,2,1517.43,10.0,2731.37,Cash on Delivery
+ORD00025,2025-06-23,CUST0191,25,Female,Mumbai,P006,Backpack,Fashion,4,1427.52,10.0,5139.07,Credit Card
+ORD00026,2025-06-21,CUST0245,22,Female,Mumbai,P009,Desk Lamp,Home & Kitchen,4,950.71,5.0,3612.7,UPI
+ORD00027,2025-08-27,CUST0096,18,Male,Vijayawada,P002,Bluetooth Speaker,Electronics,2,2399.26,5.0,4558.59,Net Banking
+ORD00028,2025-09-27,CUST0130,55,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2401.21,0.0,2401.21,UPI
+ORD00029,2025-01-24,CUST0016,57,Female,Pune,P003,Smart Watch,Electronics,3,3467.59,5.0,9882.63,Cash on Delivery
+ORD00030,2025-08-20,CUST0094,35,Male,Bengaluru,P001,Wireless Earbuds,Electronics,1,1382.56,0.0,1382.56,Credit Card
+ORD00031,2025-03-17,CUST0270,48,Female,Warangal,P009,Desk Lamp,Home & Kitchen,2,863.41,0.0,1726.82,Credit Card
+ORD00032,2025-06-01,CUST0125,23,Male,Bengaluru,P002,Bluetooth Speaker,Electronics,1,2028.39,0.0,2028.39,Net Banking
+ORD00033,2025-06-28,CUST0034,21,Male,Mumbai,P007,Water Bottle,Home & Kitchen,2,385.68,0.0,771.36,Debit Card
+ORD00034,2025-03-25,CUST0235,24,Female,Warangal,P006,Backpack,Fashion,4,1236.74,0.0,4946.96,Credit Card
+ORD00035,2025-09-07,CUST0275,53,Male,Delhi,P006,Backpack,Fashion,4,1228.4,0.0,4913.6,Credit Card
+ORD00036,2025-11-12,CUST0280,60,Female,Mumbai,P006,Backpack,Fashion,1,1288.81,0.0,1288.81,Cash on Delivery
+ORD00037,2025-02-20,CUST0182,51,Male,Hyderabad,P001,Wireless Earbuds,Electronics,2,1624.56,0.0,3249.12,Net Banking
+ORD00038,2025-09-15,CUST0057,49,Female,Bengaluru,P010,Notebook Set,Stationery,1,229.61,0.0,229.61,Cash on Delivery
+ORD00039,2025-08-04,CUST0027,52,Female,Delhi,P007,Water Bottle,Home & Kitchen,1,426.88,0.0,426.88,Credit Card
+ORD00040,2025-11-24,CUST0257,53,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,372.09,15.0,948.83,Cash on Delivery
+ORD00041,2025-12-02,CUST0088,25,Male,Warangal,P004,Cotton T-Shirt,Fashion,1,593.54,10.0,534.19,Net Banking
+ORD00042,2025-02-24,CUST0296,44,Male,Vijayawada,P001,Wireless Earbuds,Electronics,2,1592.89,10.0,2867.2,Credit Card
+ORD00043,2025-03-20,CUST0034,21,Male,Mumbai,P008,Coffee Maker,Home & Kitchen,2,2750.87,0.0,5501.74,Net Banking
+ORD00044,2025-05-20,CUST0024,54,Male,Chennai,P011,Pen Pack,Stationery,1,144.43,0.0,144.43,UPI
+ORD00045,2025-09-16,CUST0198,41,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,4,941.9,0.0,3767.6,UPI
+ORD00046,2025-10-11,CUST0268,32,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,3,2034.53,10.0,5493.23,UPI
+ORD00047,2025-07-05,CUST0019,37,Male,Warangal,P003,Smart Watch,Electronics,4,3843.14,0.0,15372.56,Net Banking
+ORD00048,2025-05-22,CUST0005,40,Male,Warangal,P007,Water Bottle,Home & Kitchen,4,405.75,15.0,1379.55,UPI
+ORD00049,2025-07-15,CUST0028,38,Female,Pune,P011,Pen Pack,Stationery,2,152.63,0.0,305.26,Cash on Delivery
+ORD00050,2025-05-06,CUST0016,57,Female,Pune,P006,Backpack,Fashion,3,1245.68,15.0,3176.48,Cash on Delivery
+ORD00051,2025-08-06,CUST0057,49,Female,Bengaluru,P001,Wireless Earbuds,Electronics,1,1418.44,15.0,1205.67,Net Banking
+ORD00052,2025-07-11,CUST0077,41,Female,Warangal,P008,Coffee Maker,Home & Kitchen,3,2828.97,10.0,7638.22,Credit Card
+ORD00053,2025-07-26,CUST0160,28,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,4,945.46,20.0,3025.47,UPI
+ORD00054,2025-01-13,CUST0126,22,Female,Pune,P012,Novel,Books,3,450.34,5.0,1283.47,Cash on Delivery
+ORD00055,2025-02-04,CUST0129,54,Male,Delhi,P005,Running Shoes,Fashion,4,2046.99,0.0,8187.96,UPI
+ORD00056,2025-04-07,CUST0205,19,Other,Hyderabad,P006,Backpack,Fashion,1,1418.91,0.0,1418.91,UPI
+ORD00057,2025-11-30,CUST0276,38,Male,Chennai,P011,Pen Pack,Stationery,4,140.42,5.0,533.6,Net Banking
+ORD00058,2025-05-31,CUST0221,21,Male,Delhi,P008,Coffee Maker,Home & Kitchen,4,2731.29,10.0,9832.64,Debit Card
+ORD00059,2025-10-13,CUST0196,55,Male,Pune,P009,Desk Lamp,Home & Kitchen,3,911.57,0.0,2734.71,Cash on Delivery
+ORD00060,2025-07-03,CUST0272,26,Other,Delhi,P009,Desk Lamp,Home & Kitchen,4,952.6,0.0,3810.4,UPI
+ORD00061,2025-01-09,CUST0130,55,Female,Hyderabad,P009,Desk Lamp,Home & Kitchen,2,985.16,0.0,1970.32,Net Banking
+ORD00062,2025-08-17,CUST0216,59,Female,Vijayawada,P012,Novel,Books,4,488.48,10.0,1758.53,Credit Card
+ORD00063,2025-05-30,CUST0172,25,Female,Delhi,P007,Water Bottle,Home & Kitchen,2,407.12,20.0,651.39,Debit Card
+ORD00064,2025-05-13,CUST0141,41,Male,Hyderabad,P001,Wireless Earbuds,Electronics,1,1462.19,0.0,1462.19,Credit Card
+ORD00065,2025-09-07,CUST0100,19,Male,Warangal,P002,Bluetooth Speaker,Electronics,2,2128.4,20.0,3405.44,Cash on Delivery
+ORD00066,2025-08-02,CUST0074,59,Female,Bengaluru,P003,Smart Watch,Electronics,1,3676.4,0.0,3676.4,Net Banking
+ORD00067,2025-03-09,CUST0144,30,Male,Hyderabad,P003,Smart Watch,Electronics,4,3514.4,5.0,13354.72,Debit Card
+ORD00068,2025-02-02,CUST0078,31,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2190.86,10.0,1971.77,Net Banking
+ORD00069,2025-02-10,CUST0203,34,Female,Vijayawada,P006,Backpack,Fashion,4,1234.68,0.0,4938.72,Credit Card
+ORD00070,2025-02-08,CUST0230,41,Female,Delhi,P004,Cotton T-Shirt,Fashion,4,647.12,20.0,2070.78,Net Banking
+ORD00071,2025-01-27,CUST0107,35,Female,Warangal,P012,Novel,Books,3,462.85,0.0,1388.55,Credit Card
+ORD00072,2025-09-29,CUST0166,25,Male,Pune,P006,Backpack,Fashion,1,1388.84,5.0,1319.4,Cash on Delivery
+ORD00073,2025-04-03,CUST0157,43,Male,Warangal,P002,Bluetooth Speaker,Electronics,1,2049.61,15.0,1742.17,Credit Card
+ORD00074,2025-11-06,CUST0176,40,Male,Mumbai,P007,Water Bottle,Home & Kitchen,3,382.72,0.0,1148.16,Credit Card
+ORD00075,2025-10-09,CUST0034,21,Male,Mumbai,P010,Notebook Set,Stationery,1,234.4,20.0,187.52,Debit Card
+ORD00076,2025-05-21,CUST0037,60,Male,Delhi,P003,Smart Watch,Electronics,4,3219.36,15.0,10945.82,Credit Card
+ORD00077,2025-05-31,CUST0186,53,Male,Delhi,P003,Smart Watch,Electronics,3,3463.91,0.0,10391.73,Net Banking
+ORD00078,2025-09-30,CUST0214,59,Female,Warangal,P002,Bluetooth Speaker,Electronics,4,2363.74,5.0,8982.21,Credit Card
+ORD00079,2025-03-31,CUST0216,59,Female,Vijayawada,P003,Smart Watch,Electronics,2,3261.95,20.0,5219.12,UPI
+ORD00080,2025-04-14,CUST0267,50,Female,Chennai,P001,Wireless Earbuds,Electronics,4,1504.29,5.0,5716.3,Debit Card
+ORD00081,2025-06-08,CUST0118,25,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,4,369.61,0.0,1478.44,UPI
+ORD00082,2025-02-23,CUST0286,55,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,2,2398.32,5.0,4556.81,UPI
+ORD00083,2025-04-03,CUST0288,47,Female,Delhi,P003,Smart Watch,Electronics,1,3170.13,0.0,3170.13,UPI
+ORD00084,2025-01-27,CUST0276,38,Male,Chennai,P001,Wireless Earbuds,Electronics,2,1531.42,0.0,3062.84,Debit Card
+ORD00085,2025-03-10,CUST0159,36,Female,Chennai,P007,Water Bottle,Home & Kitchen,3,437.99,15.0,1116.87,Net Banking
+ORD00086,2025-10-30,CUST0223,18,Female,Bengaluru,P005,Running Shoes,Fashion,2,1767.16,0.0,3534.32,Net Banking
+ORD00087,2025-05-05,CUST0168,57,Female,Warangal,P001,Wireless Earbuds,Electronics,4,1587.28,10.0,5714.21,UPI
+ORD00088,2025-03-18,CUST0226,18,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,4,2637.75,0.0,10551.0,Net Banking
+ORD00089,2025-01-01,CUST0087,56,Female,Bengaluru,P008,Coffee Maker,Home & Kitchen,4,3075.19,0.0,12300.76,Net Banking
+ORD00090,2025-06-08,CUST0019,37,Male,Warangal,P005,Running Shoes,Fashion,2,1758.11,10.0,3164.6,UPI
+ORD00091,2025-12-03,CUST0150,42,Female,Delhi,P005,Running Shoes,Fashion,1,1830.32,10.0,1647.29,Cash on Delivery
+ORD00092,2025-01-27,CUST0139,53,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,3,610.94,20.0,1466.26,Debit Card
+ORD00093,2025-03-06,CUST0158,39,Male,Bengaluru,P005,Running Shoes,Fashion,3,1966.64,15.0,5014.93,Debit Card
+ORD00094,2025-09-30,CUST0013,47,Male,Delhi,P012,Novel,Books,2,538.17,20.0,861.07,Cash on Delivery
+ORD00095,2025-08-29,CUST0136,48,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,4,383.24,20.0,1226.37,Cash on Delivery
+ORD00096,2025-11-23,CUST0110,42,Male,Vijayawada,P009,Desk Lamp,Home & Kitchen,3,881.58,10.0,2380.27,Debit Card
+ORD00097,2025-11-28,CUST0177,23,Female,Mumbai,P007,Water Bottle,Home & Kitchen,3,392.56,10.0,1059.91,Debit Card
+ORD00098,2025-04-05,CUST0103,58,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,2,888.22,0.0,1776.44,UPI
+ORD00099,2025-08-28,CUST0098,56,Male,Warangal,P009,Desk Lamp,Home & Kitchen,1,928.29,0.0,928.29,Net Banking
+ORD00100,2025-12-10,CUST0098,56,Male,Warangal,P010,Notebook Set,Stationery,1,262.85,0.0,262.85,Net Banking
+ORD00101,2025-02-17,CUST0274,54,Male,Chennai,P009,Desk Lamp,Home & Kitchen,1,858.57,0.0,858.57,Credit Card
+ORD00102,2025-09-28,CUST0086,45,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,3,648.16,5.0,1847.26,Credit Card
+ORD00103,2025-12-14,CUST0164,26,Female,Delhi,P009,Desk Lamp,Home & Kitchen,4,918.79,0.0,3675.16,Credit Card
+ORD00104,2025-07-09,CUST0188,31,Male,Warangal,P001,Wireless Earbuds,Electronics,2,1641.74,10.0,2955.13,Credit Card
+ORD00105,2025-05-27,CUST0164,26,Female,Delhi,P001,Wireless Earbuds,Electronics,3,1611.46,10.0,4350.94,Credit Card
+ORD00106,2025-04-30,CUST0134,24,Male,Bengaluru,P003,Smart Watch,Electronics,4,3746.72,5.0,14237.54,Credit Card
+ORD00107,2025-08-19,CUST0212,18,Male,Hyderabad,P006,Backpack,Fashion,2,1255.9,0.0,2511.8,Debit Card
+ORD00108,2025-12-08,CUST0274,54,Male,Chennai,P012,Novel,Books,4,533.26,10.0,1919.74,Net Banking
+ORD00109,2025-10-06,CUST0300,48,Female,Vijayawada,P010,Notebook Set,Stationery,1,248.03,5.0,235.63,Cash on Delivery
+ORD00110,2025-04-22,CUST0073,41,Male,Chennai,P008,Coffee Maker,Home & Kitchen,3,2681.06,5.0,7641.02,Credit Card
+ORD00111,2025-03-21,CUST0109,53,Male,Warangal,P005,Running Shoes,Fashion,2,2019.04,15.0,3432.37,Debit Card
+ORD00112,2025-06-15,CUST0051,33,Female,Vijayawada,P005,Running Shoes,Fashion,1,1836.76,15.0,1561.25,Cash on Delivery
+ORD00113,2025-10-10,CUST0071,29,Female,Chennai,P002,Bluetooth Speaker,Electronics,3,2029.99,0.0,6089.97,Debit Card
+ORD00114,2025-01-10,CUST0300,48,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,1,557.54,10.0,501.79,Debit Card
+ORD00115,2025-12-24,CUST0264,39,Other,Vijayawada,P012,Novel,Books,2,456.05,0.0,912.1,Debit Card
+ORD00116,2025-03-23,CUST0238,58,Male,Bengaluru,P003,Smart Watch,Electronics,2,3768.32,0.0,7536.64,Cash on Delivery
+ORD00117,2025-03-06,CUST0214,59,Female,Warangal,P010,Notebook Set,Stationery,3,245.19,5.0,698.79,Credit Card
+ORD00118,2025-01-01,CUST0151,44,Male,Delhi,P004,Cotton T-Shirt,Fashion,3,617.29,20.0,1481.5,Net Banking
+ORD00119,2025-02-04,CUST0010,54,Female,Delhi,P007,Water Bottle,Home & Kitchen,1,417.18,20.0,333.74,Credit Card
+ORD00120,2025-03-18,CUST0096,18,Male,Vijayawada,P004,Cotton T-Shirt,Fashion,2,589.99,10.0,1061.98,UPI
+ORD00121,2025-10-15,CUST0229,34,Male,Vijayawada,P005,Running Shoes,Fashion,2,2025.14,15.0,3442.74,Net Banking
+ORD00122,2025-09-18,CUST0125,23,Male,Bengaluru,P005,Running Shoes,Fashion,2,1993.5,5.0,3787.65,Net Banking
+ORD00123,2025-02-22,CUST0067,60,Male,Mumbai,P011,Pen Pack,Stationery,2,160.3,0.0,320.6,Credit Card
+ORD00124,2025-07-06,CUST0047,39,Male,Chennai,P004,Cotton T-Shirt,Fashion,3,547.19,0.0,1641.57,UPI
+ORD00125,2025-10-10,CUST0027,52,Female,Delhi,P006,Backpack,Fashion,4,1178.15,10.0,4241.34,Cash on Delivery
+ORD00126,2025-01-24,CUST0247,43,Male,Pune,P005,Running Shoes,Fashion,1,1764.88,15.0,1500.15,Net Banking
+ORD00127,2025-10-27,CUST0166,25,Male,Pune,P007,Water Bottle,Home & Kitchen,2,366.5,0.0,733.0,Debit Card
+ORD00128,2025-03-15,CUST0222,52,Male,Pune,P008,Coffee Maker,Home & Kitchen,2,2940.25,10.0,5292.45,Debit Card
+ORD00129,2025-05-15,CUST0215,28,Female,Hyderabad,P006,Backpack,Fashion,2,1226.05,0.0,2452.1,Cash on Delivery
+ORD00130,2025-05-04,CUST0226,18,Female,Hyderabad,P012,Novel,Books,1,457.68,0.0,457.68,UPI
+ORD00131,2025-05-26,CUST0014,33,Male,Chennai,P010,Notebook Set,Stationery,1,273.42,0.0,273.42,Net Banking
+ORD00132,2025-03-09,CUST0197,38,Female,Mumbai,P003,Smart Watch,Electronics,2,3424.06,20.0,5478.5,Net Banking
+ORD00133,2025-03-12,CUST0287,32,Female,Chennai,P011,Pen Pack,Stationery,2,140.68,10.0,253.22,Net Banking
+ORD00134,2025-09-30,CUST0087,56,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,3,606.96,15.0,1547.75,Debit Card
+ORD00135,2025-01-10,CUST0112,39,Female,Pune,P009,Desk Lamp,Home & Kitchen,2,817.99,10.0,1472.38,Credit Card
+ORD00136,2025-04-05,CUST0146,22,Male,Delhi,P008,Coffee Maker,Home & Kitchen,2,2753.46,15.0,4680.88,Cash on Delivery
+ORD00137,2025-05-21,CUST0105,59,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,1,380.7,5.0,361.66,UPI
+ORD00138,2025-11-05,CUST0095,49,Male,Pune,P006,Backpack,Fashion,3,1344.89,0.0,4034.67,UPI
+ORD00139,2025-11-23,CUST0003,26,Other,Hyderabad,P003,Smart Watch,Electronics,3,3601.37,0.0,10804.11,Net Banking
+ORD00140,2025-11-03,CUST0268,32,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,2,2188.49,0.0,4376.98,Net Banking
+ORD00141,2025-08-02,CUST0103,58,Male,Hyderabad,P003,Smart Watch,Electronics,2,3285.9,10.0,5914.62,UPI
+ORD00142,2025-02-08,CUST0065,47,Female,Hyderabad,P011,Pen Pack,Stationery,1,140.27,0.0,140.27,Debit Card
+ORD00143,2025-11-11,CUST0024,54,Male,Chennai,P002,Bluetooth Speaker,Electronics,3,2120.01,0.0,6360.03,Credit Card
+ORD00144,2025-12-06,CUST0017,35,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,2,380.23,0.0,760.46,Cash on Delivery
+ORD00145,2025-12-06,CUST0241,24,Male,Chennai,P011,Pen Pack,Stationery,1,137.07,0.0,137.07,UPI
+ORD00146,2025-03-14,CUST0035,43,Male,Hyderabad,P006,Backpack,Fashion,3,1200.79,10.0,3242.13,Net Banking
+ORD00147,2025-07-12,CUST0032,54,Female,Mumbai,P010,Notebook Set,Stationery,3,273.73,0.0,821.19,Credit Card
+ORD00148,2025-02-01,CUST0121,30,Female,Delhi,P001,Wireless Earbuds,Electronics,2,1633.5,15.0,2776.95,Debit Card
+ORD00149,2025-12-24,CUST0278,58,Male,Hyderabad,P003,Smart Watch,Electronics,4,3498.05,5.0,13292.59,Credit Card
+ORD00150,2025-10-18,CUST0292,40,Male,Hyderabad,P012,Novel,Books,2,488.77,0.0,977.54,Debit Card
+ORD00151,2025-03-12,CUST0197,38,Female,Mumbai,P004,Cotton T-Shirt,Fashion,1,551.47,15.0,468.75,UPI
+ORD00152,2025-06-10,CUST0177,23,Female,Mumbai,P007,Water Bottle,Home & Kitchen,2,391.71,10.0,705.08,Debit Card
+ORD00153,2025-12-07,CUST0114,39,Female,Hyderabad,P012,Novel,Books,4,488.17,0.0,1952.68,Credit Card
+ORD00154,2025-04-17,CUST0136,48,Male,Hyderabad,P012,Novel,Books,3,495.19,5.0,1411.29,Cash on Delivery
+ORD00155,2025-05-07,CUST0111,59,Male,Bengaluru,P004,Cotton T-Shirt,Fashion,4,584.46,0.0,2337.84,Credit Card
+ORD00156,2025-11-12,CUST0050,32,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,3,390.15,5.0,1111.93,Credit Card
+ORD00157,2025-04-04,CUST0228,33,Male,Hyderabad,P010,Notebook Set,Stationery,3,265.27,20.0,636.65,UPI
+ORD00158,2025-08-28,CUST0180,40,Female,Chennai,P002,Bluetooth Speaker,Electronics,3,2002.22,0.0,6006.66,Net Banking
+ORD00159,2025-07-31,CUST0032,54,Female,Mumbai,P012,Novel,Books,4,449.56,0.0,1798.24,Net Banking
+ORD00160,2025-05-03,CUST0205,19,Other,Hyderabad,P011,Pen Pack,Stationery,3,134.89,15.0,343.97,Cash on Delivery
+ORD00161,2025-06-20,CUST0072,36,Female,Vijayawada,P006,Backpack,Fashion,1,1170.52,10.0,1053.47,Net Banking
+ORD00162,2025-11-07,CUST0100,19,Male,Warangal,P011,Pen Pack,Stationery,4,145.22,0.0,580.88,Debit Card
+ORD00163,2025-10-10,CUST0202,49,Male,Delhi,P002,Bluetooth Speaker,Electronics,2,2197.5,5.0,4175.25,Credit Card
+ORD00164,2025-11-07,CUST0290,23,Male,Delhi,P001,Wireless Earbuds,Electronics,4,1605.62,5.0,6101.36,UPI
+ORD00165,2025-05-17,CUST0289,36,Female,Vijayawada,P011,Pen Pack,Stationery,3,137.11,15.0,349.63,Debit Card
+ORD00166,2025-09-24,CUST0145,57,Male,Mumbai,P003,Smart Watch,Electronics,3,3836.4,0.0,11509.2,Cash on Delivery
+ORD00167,2025-06-02,CUST0281,18,Male,Hyderabad,P005,Running Shoes,Fashion,1,1754.07,10.0,1578.66,Credit Card
+ORD00168,2025-09-24,CUST0252,23,Female,Vijayawada,P001,Wireless Earbuds,Electronics,2,1440.18,0.0,2880.36,Net Banking
+ORD00169,2025-06-19,CUST0283,41,Female,Pune,P007,Water Bottle,Home & Kitchen,3,414.17,0.0,1242.51,Cash on Delivery
+ORD00170,2025-02-19,CUST0201,18,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,2,2251.21,5.0,4277.3,UPI
+ORD00171,2025-03-20,CUST0289,36,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,4,370.24,0.0,1480.96,Debit Card
+ORD00172,2025-03-14,CUST0104,30,Female,Warangal,P003,Smart Watch,Electronics,1,3812.03,15.0,3240.23,Debit Card
+ORD00173,2025-01-30,CUST0125,23,Male,Bengaluru,P012,Novel,Books,1,514.14,15.0,437.02,Net Banking
+ORD00174,2025-05-14,CUST0191,25,Female,Mumbai,P005,Running Shoes,Fashion,2,1872.82,5.0,3558.36,UPI
+ORD00175,2025-12-16,CUST0111,59,Male,Bengaluru,P012,Novel,Books,2,453.13,10.0,815.63,Debit Card
+ORD00176,2025-04-24,CUST0091,54,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,4,362.7,15.0,1233.18,Net Banking
+ORD00177,2025-01-22,CUST0274,54,Male,Chennai,P002,Bluetooth Speaker,Electronics,2,2346.2,0.0,4692.4,Cash on Delivery
+ORD00178,2025-09-16,CUST0161,46,Male,Vijayawada,P001,Wireless Earbuds,Electronics,4,1519.22,0.0,6076.88,Credit Card
+ORD00179,2025-12-20,CUST0297,36,Female,Bengaluru,P001,Wireless Earbuds,Electronics,1,1442.23,0.0,1442.23,Debit Card
+ORD00180,2025-09-03,CUST0086,45,Female,Bengaluru,P003,Smart Watch,Electronics,4,3215.08,10.0,11574.29,Net Banking
+ORD00181,2025-12-23,CUST0163,59,Female,Delhi,P010,Notebook Set,Stationery,1,266.04,20.0,212.83,Cash on Delivery
+ORD00182,2025-05-22,CUST0039,57,Female,Bengaluru,P012,Novel,Books,4,503.56,15.0,1712.1,Debit Card
+ORD00183,2025-09-15,CUST0065,47,Female,Hyderabad,P012,Novel,Books,2,497.3,5.0,944.87,Net Banking
+ORD00184,2025-02-11,CUST0116,49,Male,Warangal,P004,Cotton T-Shirt,Fashion,2,586.0,0.0,1172.0,UPI
+ORD00185,2025-06-12,CUST0171,49,Female,Warangal,P010,Notebook Set,Stationery,3,270.45,10.0,730.22,UPI
+ORD00186,2025-04-14,CUST0011,25,Male,Delhi,P004,Cotton T-Shirt,Fashion,1,563.76,0.0,563.76,Net Banking
+ORD00187,2025-12-08,CUST0116,49,Male,Warangal,P007,Water Bottle,Home & Kitchen,3,437.08,0.0,1311.24,Debit Card
+ORD00188,2025-02-24,CUST0015,41,Female,Warangal,P005,Running Shoes,Fashion,1,1733.15,5.0,1646.49,UPI
+ORD00189,2025-07-16,CUST0110,42,Male,Vijayawada,P011,Pen Pack,Stationery,2,152.75,0.0,305.5,Debit Card
+ORD00190,2025-08-17,CUST0241,24,Male,Chennai,P011,Pen Pack,Stationery,3,159.85,0.0,479.55,Net Banking
+ORD00191,2025-03-24,CUST0034,21,Male,Mumbai,P002,Bluetooth Speaker,Electronics,2,2171.66,20.0,3474.66,Net Banking
+ORD00192,2025-06-04,CUST0114,39,Female,Hyderabad,P004,Cotton T-Shirt,Fashion,4,603.85,0.0,2415.4,UPI
+ORD00193,2025-09-03,CUST0056,23,Male,Chennai,P008,Coffee Maker,Home & Kitchen,1,2762.48,0.0,2762.48,Cash on Delivery
+ORD00194,2025-10-06,CUST0217,54,Female,Pune,P011,Pen Pack,Stationery,1,162.01,0.0,162.01,UPI
+ORD00195,2025-07-09,CUST0177,23,Female,Mumbai,P006,Backpack,Fashion,3,1301.13,0.0,3903.39,Credit Card
+ORD00196,2025-12-03,CUST0299,25,Female,Pune,P002,Bluetooth Speaker,Electronics,2,2189.3,0.0,4378.6,Debit Card
+ORD00197,2025-03-25,CUST0221,21,Male,Delhi,P008,Coffee Maker,Home & Kitchen,1,2876.03,0.0,2876.03,Debit Card
+ORD00198,2025-04-14,CUST0295,31,Male,Warangal,P001,Wireless Earbuds,Electronics,2,1617.95,0.0,3235.9,Debit Card
+ORD00199,2025-08-25,CUST0241,24,Male,Chennai,P010,Notebook Set,Stationery,3,263.03,0.0,789.09,Debit Card
+ORD00200,2025-04-21,CUST0192,33,Male,Delhi,P003,Smart Watch,Electronics,4,3590.72,10.0,12926.59,Credit Card
+ORD00201,2025-12-17,CUST0234,29,Female,Pune,P009,Desk Lamp,Home & Kitchen,4,875.79,0.0,3503.16,Cash on Delivery
+ORD00202,2025-06-28,CUST0244,38,Male,Chennai,P005,Running Shoes,Fashion,3,1988.85,0.0,5966.55,Debit Card
+ORD00203,2025-02-17,CUST0180,40,Female,Chennai,P009,Desk Lamp,Home & Kitchen,2,844.81,10.0,1520.66,UPI
+ORD00204,2025-07-25,CUST0225,39,Female,Hyderabad,P003,Smart Watch,Electronics,4,3339.86,20.0,10687.55,UPI
+ORD00205,2025-03-14,CUST0241,24,Male,Chennai,P002,Bluetooth Speaker,Electronics,2,2107.23,5.0,4003.74,UPI
+ORD00206,2025-11-02,CUST0265,37,Male,Delhi,P009,Desk Lamp,Home & Kitchen,4,936.43,0.0,3745.72,UPI
+ORD00207,2025-02-23,CUST0237,23,Male,Hyderabad,P006,Backpack,Fashion,4,1240.14,0.0,4960.56,Credit Card
+ORD00208,2025-02-24,CUST0039,57,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,3,935.86,5.0,2667.2,UPI
+ORD00209,2025-10-01,CUST0073,41,Male,Chennai,P010,Notebook Set,Stationery,3,264.69,0.0,794.07,Debit Card
+ORD00210,2025-03-08,CUST0247,43,Male,Pune,P004,Cotton T-Shirt,Fashion,1,582.33,5.0,553.21,UPI
+ORD00211,2025-03-29,CUST0104,30,Female,Warangal,P005,Running Shoes,Fashion,3,1994.63,0.0,5983.89,UPI
+ORD00212,2025-09-13,CUST0082,59,Male,Warangal,P005,Running Shoes,Fashion,1,1875.76,0.0,1875.76,Credit Card
+ORD00213,2025-10-06,CUST0271,57,Female,Vijayawada,P003,Smart Watch,Electronics,3,3799.92,5.0,10829.77,Cash on Delivery
+ORD00214,2025-06-22,CUST0193,24,Other,Chennai,P001,Wireless Earbuds,Electronics,4,1648.55,15.0,5605.07,Cash on Delivery
+ORD00215,2025-10-16,CUST0250,40,Female,Bengaluru,P011,Pen Pack,Stationery,3,147.84,0.0,443.52,Cash on Delivery
+ORD00216,2025-06-29,CUST0005,40,Male,Warangal,P007,Water Bottle,Home & Kitchen,2,398.55,5.0,757.25,Debit Card
+ORD00217,2025-11-02,CUST0230,41,Female,Delhi,P007,Water Bottle,Home & Kitchen,3,367.77,0.0,1103.31,UPI
+ORD00218,2025-09-01,CUST0238,58,Male,Bengaluru,P001,Wireless Earbuds,Electronics,4,1647.35,15.0,5600.99,Net Banking
+ORD00219,2025-05-27,CUST0049,44,Male,Bengaluru,P004,Cotton T-Shirt,Fashion,1,571.22,10.0,514.1,Cash on Delivery
+ORD00220,2025-08-13,CUST0282,54,Female,Delhi,P006,Backpack,Fashion,2,1313.81,0.0,2627.62,Credit Card
+ORD00221,2025-01-22,CUST0068,44,Male,Mumbai,P003,Smart Watch,Electronics,3,3813.42,0.0,11440.26,UPI
+ORD00222,2025-09-28,CUST0251,52,Female,Pune,P001,Wireless Earbuds,Electronics,3,1406.64,15.0,3586.93,UPI
+ORD00223,2025-11-30,CUST0294,34,Male,Warangal,P004,Cotton T-Shirt,Fashion,4,555.88,10.0,2001.17,Net Banking
+ORD00224,2025-05-05,CUST0245,22,Female,Mumbai,P006,Backpack,Fashion,1,1240.86,0.0,1240.86,Net Banking
+ORD00225,2025-06-07,CUST0002,36,Female,Delhi,P006,Backpack,Fashion,4,1234.84,10.0,4445.42,Cash on Delivery
+ORD00226,2025-11-03,CUST0232,28,Male,Vijayawada,P007,Water Bottle,Home & Kitchen,2,425.74,0.0,851.48,Credit Card
+ORD00227,2025-12-29,CUST0172,25,Female,Delhi,P007,Water Bottle,Home & Kitchen,2,362.18,0.0,724.36,Net Banking
+ORD00228,2025-02-21,CUST0156,36,Male,Chennai,P009,Desk Lamp,Home & Kitchen,4,825.11,10.0,2970.4,Credit Card
+ORD00229,2025-03-10,CUST0047,39,Male,Chennai,P005,Running Shoes,Fashion,1,1783.35,0.0,1783.35,Debit Card
+ORD00230,2025-09-27,CUST0144,30,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,4,924.58,20.0,2958.66,Cash on Delivery
+ORD00231,2025-05-28,CUST0050,32,Female,Hyderabad,P005,Running Shoes,Fashion,3,2059.79,0.0,6179.37,Net Banking
+ORD00232,2025-06-01,CUST0219,22,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,4,2022.11,0.0,8088.44,Debit Card
+ORD00233,2025-06-19,CUST0053,29,Female,Delhi,P003,Smart Watch,Electronics,2,3351.64,10.0,6032.95,Credit Card
+ORD00234,2025-08-08,CUST0273,45,Male,Warangal,P007,Water Bottle,Home & Kitchen,4,380.33,0.0,1521.32,Credit Card
+ORD00235,2025-12-11,CUST0083,24,Male,Mumbai,P002,Bluetooth Speaker,Electronics,1,2155.92,0.0,2155.92,Debit Card
+ORD00236,2025-02-01,CUST0255,34,Male,Chennai,P008,Coffee Maker,Home & Kitchen,2,2538.76,10.0,4569.77,UPI
+ORD00237,2025-03-18,CUST0131,33,Female,Warangal,P010,Notebook Set,Stationery,1,269.79,15.0,229.32,Credit Card
+ORD00238,2025-11-10,CUST0255,34,Male,Chennai,P001,Wireless Earbuds,Electronics,1,1364.25,0.0,1364.25,Net Banking
+ORD00239,2025-10-05,CUST0030,19,Male,Warangal,P008,Coffee Maker,Home & Kitchen,3,2590.92,10.0,6995.48,UPI
+ORD00240,2025-01-21,CUST0282,54,Female,Delhi,P002,Bluetooth Speaker,Electronics,3,2173.15,5.0,6193.48,Net Banking
+ORD00241,2025-10-27,CUST0296,44,Male,Vijayawada,P009,Desk Lamp,Home & Kitchen,1,943.83,0.0,943.83,Debit Card
+ORD00242,2025-09-03,CUST0036,60,Male,Warangal,P012,Novel,Books,1,499.29,5.0,474.33,Debit Card
+ORD00243,2025-10-15,CUST0258,42,Male,Bengaluru,P005,Running Shoes,Fashion,4,2055.92,0.0,8223.68,Cash on Delivery
+ORD00244,2025-10-18,CUST0221,21,Male,Delhi,P004,Cotton T-Shirt,Fashion,3,601.77,10.0,1624.78,UPI
+ORD00245,2025-09-21,CUST0137,53,Female,Hyderabad,P012,Novel,Books,1,540.7,20.0,432.56,Credit Card
+ORD00246,2025-01-26,CUST0106,57,Female,Pune,P005,Running Shoes,Fashion,3,1889.1,0.0,5667.3,Net Banking
+ORD00247,2025-11-16,CUST0180,40,Female,Chennai,P005,Running Shoes,Fashion,3,1816.98,10.0,4905.85,Cash on Delivery
+ORD00248,2025-10-12,CUST0115,24,Male,Pune,P008,Coffee Maker,Home & Kitchen,4,3013.7,10.0,10849.32,Credit Card
+ORD00249,2025-08-10,CUST0063,51,Female,Hyderabad,P005,Running Shoes,Fashion,1,1959.19,15.0,1665.31,Net Banking
+ORD00250,2025-04-27,CUST0008,41,Male,Chennai,P006,Backpack,Fashion,1,1354.06,5.0,1286.36,Debit Card
+ORD00251,2025-05-08,CUST0143,45,Male,Mumbai,P001,Wireless Earbuds,Electronics,2,1608.46,0.0,3216.92,Net Banking
+ORD00252,2025-05-12,CUST0119,36,Female,Chennai,P005,Running Shoes,Fashion,4,1728.42,0.0,6913.68,Cash on Delivery
+ORD00253,2025-09-30,CUST0158,39,Male,Bengaluru,P011,Pen Pack,Stationery,1,160.49,0.0,160.49,Debit Card
+ORD00254,2025-10-18,CUST0160,28,Female,Bengaluru,P005,Running Shoes,Fashion,4,1802.42,0.0,7209.68,Credit Card
+ORD00255,2025-09-17,CUST0103,58,Male,Hyderabad,P012,Novel,Books,2,512.53,10.0,922.55,Net Banking
+ORD00256,2025-01-23,CUST0160,28,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,2,2176.8,0.0,4353.6,Cash on Delivery
+ORD00257,2025-10-24,CUST0006,39,Female,Bengaluru,P011,Pen Pack,Stationery,4,144.52,5.0,549.18,UPI
+ORD00258,2025-09-05,CUST0043,32,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,4,647.27,0.0,2589.08,Net Banking
+ORD00259,2025-03-19,CUST0249,26,Female,Chennai,P003,Smart Watch,Electronics,2,3212.08,0.0,6424.16,Credit Card
+ORD00260,2025-01-11,CUST0022,45,Male,Pune,P001,Wireless Earbuds,Electronics,4,1371.3,15.0,4662.42,UPI
+ORD00261,2025-10-10,CUST0221,21,Male,Delhi,P007,Water Bottle,Home & Kitchen,1,409.45,15.0,348.03,Credit Card
+ORD00262,2025-06-01,CUST0192,33,Male,Delhi,P006,Backpack,Fashion,3,1354.27,0.0,4062.81,Debit Card
+ORD00263,2025-03-03,CUST0051,33,Female,Vijayawada,P006,Backpack,Fashion,1,1376.05,0.0,1376.05,Debit Card
+ORD00264,2025-09-09,CUST0047,39,Male,Chennai,P010,Notebook Set,Stationery,1,266.04,10.0,239.44,Credit Card
+ORD00265,2025-01-29,CUST0194,18,Female,Pune,P011,Pen Pack,Stationery,4,156.9,0.0,627.6,Cash on Delivery
+ORD00266,2025-02-10,CUST0065,47,Female,Hyderabad,P006,Backpack,Fashion,3,1405.47,5.0,4005.59,Credit Card
+ORD00267,2025-07-22,CUST0075,54,Male,Chennai,P004,Cotton T-Shirt,Fashion,2,613.6,10.0,1104.48,UPI
+ORD00268,2025-08-14,CUST0188,31,Male,Warangal,P012,Novel,Books,1,518.32,10.0,466.49,Cash on Delivery
+ORD00269,2025-06-13,CUST0183,38,Male,Pune,P001,Wireless Earbuds,Electronics,4,1471.73,0.0,5886.92,Net Banking
+ORD00270,2025-10-09,CUST0067,60,Male,Mumbai,P004,Cotton T-Shirt,Fashion,2,628.1,15.0,1067.77,Credit Card
+ORD00271,2025-10-05,CUST0140,49,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,1,396.81,5.0,376.97,UPI
+ORD00272,2025-12-17,CUST0186,53,Male,Delhi,P009,Desk Lamp,Home & Kitchen,4,897.53,10.0,3231.11,Debit Card
+ORD00273,2025-01-27,CUST0300,48,Female,Vijayawada,P009,Desk Lamp,Home & Kitchen,1,901.82,5.0,856.73,Debit Card
+ORD00274,2025-12-20,CUST0277,31,Female,Warangal,P005,Running Shoes,Fashion,2,1886.97,5.0,3585.24,Net Banking
+ORD00275,2025-03-21,CUST0177,23,Female,Mumbai,P003,Smart Watch,Electronics,2,3215.71,0.0,6431.42,Cash on Delivery
+ORD00276,2025-09-16,CUST0130,55,Female,Hyderabad,P005,Running Shoes,Fashion,4,1987.67,5.0,7553.15,UPI
+ORD00277,2025-12-10,CUST0293,60,Female,Vijayawada,P002,Bluetooth Speaker,Electronics,1,2052.71,10.0,1847.44,UPI
+ORD00278,2025-04-16,CUST0098,56,Male,Warangal,P005,Running Shoes,Fashion,3,1865.68,0.0,5597.04,Cash on Delivery
+ORD00279,2025-07-02,CUST0075,54,Male,Chennai,P011,Pen Pack,Stationery,4,156.63,15.0,532.54,Credit Card
+ORD00280,2025-05-08,CUST0300,48,Female,Vijayawada,P010,Notebook Set,Stationery,1,238.39,0.0,238.39,Credit Card
+ORD00281,2025-12-29,CUST0192,33,Male,Delhi,P007,Water Bottle,Home & Kitchen,4,438.12,5.0,1664.86,Credit Card
+ORD00282,2025-04-28,CUST0192,33,Male,Delhi,P009,Desk Lamp,Home & Kitchen,4,976.84,5.0,3711.99,Credit Card
+ORD00283,2025-04-21,CUST0201,18,Female,Bengaluru,P010,Notebook Set,Stationery,1,246.0,20.0,196.8,Debit Card
+ORD00284,2025-12-17,CUST0296,44,Male,Vijayawada,P012,Novel,Books,4,528.79,0.0,2115.16,Credit Card
+ORD00285,2025-07-24,CUST0192,33,Male,Delhi,P007,Water Bottle,Home & Kitchen,1,399.44,10.0,359.5,Debit Card
+ORD00286,2025-06-04,CUST0123,50,Female,Mumbai,P009,Desk Lamp,Home & Kitchen,3,869.07,0.0,2607.21,Credit Card
+ORD00287,2025-11-07,CUST0130,55,Female,Hyderabad,P003,Smart Watch,Electronics,3,3461.41,0.0,10384.23,UPI
+ORD00288,2025-12-23,CUST0228,33,Male,Hyderabad,P012,Novel,Books,3,451.21,0.0,1353.63,Credit Card
+ORD00289,2025-04-11,CUST0077,41,Female,Warangal,P008,Coffee Maker,Home & Kitchen,4,2555.46,0.0,10221.84,Net Banking
+ORD00290,2025-02-07,CUST0175,49,Male,Mumbai,P010,Notebook Set,Stationery,1,266.37,10.0,239.73,UPI
+ORD00291,2025-06-11,CUST0069,24,Male,Vijayawada,P006,Backpack,Fashion,3,1187.75,15.0,3028.76,Cash on Delivery
+ORD00292,2025-08-05,CUST0268,32,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2057.65,5.0,1954.77,Net Banking
+ORD00293,2025-03-16,CUST0205,19,Other,Hyderabad,P002,Bluetooth Speaker,Electronics,4,2269.36,10.0,8169.7,UPI
+ORD00294,2025-07-24,CUST0180,40,Female,Chennai,P012,Novel,Books,4,498.41,5.0,1893.96,Credit Card
+ORD00295,2025-03-23,CUST0232,28,Male,Vijayawada,P005,Running Shoes,Fashion,3,1726.56,0.0,5179.68,Debit Card
+ORD00296,2025-07-18,CUST0214,59,Female,Warangal,P005,Running Shoes,Fashion,1,1875.9,10.0,1688.31,Cash on Delivery
+ORD00297,2025-10-23,CUST0190,49,Female,Chennai,P010,Notebook Set,Stationery,3,259.54,0.0,778.62,Net Banking
+ORD00298,2025-03-07,CUST0143,45,Male,Mumbai,P008,Coffee Maker,Home & Kitchen,3,2656.57,0.0,7969.71,UPI
+ORD00299,2025-06-01,CUST0173,37,Female,Delhi,P006,Backpack,Fashion,1,1215.0,15.0,1032.75,Debit Card
+ORD00300,2025-07-14,CUST0278,58,Male,Hyderabad,P006,Backpack,Fashion,1,1410.6,20.0,1128.48,UPI
+ORD00301,2025-01-05,CUST0156,36,Male,Chennai,P012,Novel,Books,3,525.25,20.0,1260.6,UPI
+ORD00302,2025-10-16,CUST0272,26,Other,Delhi,P003,Smart Watch,Electronics,4,3534.22,15.0,12016.35,UPI
+ORD00303,2025-08-13,CUST0019,37,Male,Warangal,P008,Coffee Maker,Home & Kitchen,4,2752.68,5.0,10460.18,Debit Card
+ORD00304,2025-09-14,CUST0047,39,Male,Chennai,P008,Coffee Maker,Home & Kitchen,3,2561.09,15.0,6530.78,Cash on Delivery
+ORD00305,2025-07-06,CUST0158,39,Male,Bengaluru,P006,Backpack,Fashion,3,1250.21,20.0,3000.5,UPI
+ORD00306,2025-05-18,CUST0220,41,Female,Pune,P001,Wireless Earbuds,Electronics,2,1401.51,5.0,2662.87,Credit Card
+ORD00307,2025-09-25,CUST0178,38,Female,Chennai,P012,Novel,Books,3,470.58,15.0,1199.98,Cash on Delivery
+ORD00308,2025-08-04,CUST0114,39,Female,Hyderabad,P003,Smart Watch,Electronics,4,3318.24,20.0,10618.37,Cash on Delivery
+ORD00309,2025-09-10,CUST0038,53,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,1,657.38,0.0,657.38,Debit Card
+ORD00310,2025-04-24,CUST0027,52,Female,Delhi,P009,Desk Lamp,Home & Kitchen,3,870.18,5.0,2480.01,UPI
+ORD00311,2025-04-15,CUST0227,37,Male,Pune,P010,Notebook Set,Stationery,1,240.79,15.0,204.67,Cash on Delivery
+ORD00312,2025-10-20,CUST0157,43,Male,Warangal,P004,Cotton T-Shirt,Fashion,4,592.58,10.0,2133.29,Net Banking
+ORD00313,2025-11-20,CUST0057,49,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,2,2194.28,0.0,4388.56,Credit Card
+ORD00314,2025-07-17,CUST0046,58,Female,Warangal,P003,Smart Watch,Electronics,3,3182.25,0.0,9546.75,Credit Card
+ORD00315,2025-06-01,CUST0063,51,Female,Hyderabad,P006,Backpack,Fashion,3,1304.68,0.0,3914.04,Debit Card
+ORD00316,2025-04-30,CUST0010,54,Female,Delhi,P009,Desk Lamp,Home & Kitchen,3,876.29,0.0,2628.87,Cash on Delivery
+ORD00317,2025-04-01,CUST0124,50,Male,Mumbai,P001,Wireless Earbuds,Electronics,2,1485.97,0.0,2971.94,Cash on Delivery
+ORD00318,2025-03-16,CUST0244,38,Male,Chennai,P001,Wireless Earbuds,Electronics,2,1508.13,0.0,3016.26,Debit Card
+ORD00319,2025-05-06,CUST0190,49,Female,Chennai,P007,Water Bottle,Home & Kitchen,4,392.72,0.0,1570.88,UPI
+ORD00320,2025-12-24,CUST0235,24,Female,Warangal,P011,Pen Pack,Stationery,4,134.76,10.0,485.14,Cash on Delivery
+ORD00321,2025-10-15,CUST0272,26,Other,Delhi,P004,Cotton T-Shirt,Fashion,4,614.86,20.0,1967.55,Net Banking
+ORD00322,2025-12-17,CUST0295,31,Male,Warangal,P009,Desk Lamp,Home & Kitchen,1,889.1,0.0,889.1,Debit Card
+ORD00323,2025-12-27,CUST0239,44,Female,Chennai,P005,Running Shoes,Fashion,1,1715.26,5.0,1629.5,UPI
+ORD00324,2025-02-25,CUST0253,49,Female,Mumbai,P007,Water Bottle,Home & Kitchen,2,397.39,5.0,755.04,Net Banking
+ORD00325,2025-01-19,CUST0006,39,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,1,2394.89,0.0,2394.89,Cash on Delivery
+ORD00326,2025-01-04,CUST0152,53,Female,Mumbai,P001,Wireless Earbuds,Electronics,1,1476.11,5.0,1402.3,Net Banking
+ORD00327,2025-04-05,CUST0297,36,Female,Bengaluru,P012,Novel,Books,4,499.45,15.0,1698.13,UPI
+ORD00328,2025-11-11,CUST0135,37,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,2,2355.34,5.0,4475.15,Credit Card
+ORD00329,2025-03-10,CUST0274,54,Male,Chennai,P012,Novel,Books,1,479.18,0.0,479.18,Debit Card
+ORD00330,2025-06-18,CUST0118,25,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,1,413.37,10.0,372.03,UPI
+ORD00331,2025-05-10,CUST0112,39,Female,Pune,P004,Cotton T-Shirt,Fashion,3,580.89,10.0,1568.4,Debit Card
+ORD00332,2025-01-21,CUST0140,49,Female,Vijayawada,P008,Coffee Maker,Home & Kitchen,2,2996.4,0.0,5992.8,Debit Card
+ORD00333,2025-05-06,CUST0013,47,Male,Delhi,P011,Pen Pack,Stationery,2,135.26,5.0,256.99,Debit Card
+ORD00334,2025-05-06,CUST0038,53,Male,Hyderabad,P012,Novel,Books,1,523.66,15.0,445.11,UPI
+ORD00335,2025-08-10,CUST0272,26,Other,Delhi,P012,Novel,Books,1,519.99,10.0,467.99,Cash on Delivery
+ORD00336,2025-02-10,CUST0298,42,Male,Hyderabad,P006,Backpack,Fashion,2,1211.41,5.0,2301.68,Debit Card
+ORD00337,2025-08-12,CUST0235,24,Female,Warangal,P003,Smart Watch,Electronics,2,3158.98,20.0,5054.37,Cash on Delivery
+ORD00338,2025-10-05,CUST0080,49,Female,Pune,P004,Cotton T-Shirt,Fashion,1,552.07,0.0,552.07,Credit Card
+ORD00339,2025-04-12,CUST0248,28,Female,Delhi,P001,Wireless Earbuds,Electronics,2,1406.94,0.0,2813.88,Debit Card
+ORD00340,2025-04-30,CUST0116,49,Male,Warangal,P012,Novel,Books,2,481.83,0.0,963.66,UPI
+ORD00341,2025-10-04,CUST0068,44,Male,Mumbai,P003,Smart Watch,Electronics,2,3842.47,20.0,6147.95,UPI
+ORD00342,2025-01-13,CUST0152,53,Female,Mumbai,P010,Notebook Set,Stationery,3,239.77,10.0,647.38,Cash on Delivery
+ORD00343,2025-11-23,CUST0221,21,Male,Delhi,P011,Pen Pack,Stationery,2,147.04,10.0,264.67,Cash on Delivery
+ORD00344,2025-06-29,CUST0242,58,Male,Mumbai,P010,Notebook Set,Stationery,2,270.38,20.0,432.61,UPI
+ORD00345,2025-02-04,CUST0134,24,Male,Bengaluru,P010,Notebook Set,Stationery,1,256.78,0.0,256.78,Cash on Delivery
+ORD00346,2025-07-09,CUST0232,28,Male,Vijayawada,P009,Desk Lamp,Home & Kitchen,4,917.41,0.0,3669.64,Net Banking
+ORD00347,2025-06-01,CUST0226,18,Female,Hyderabad,P004,Cotton T-Shirt,Fashion,4,544.19,0.0,2176.76,Debit Card
+ORD00348,2025-01-18,CUST0080,49,Female,Pune,P012,Novel,Books,2,491.53,0.0,983.06,Net Banking
+ORD00349,2025-06-05,CUST0259,49,Female,Bengaluru,P011,Pen Pack,Stationery,4,143.87,5.0,546.71,UPI
+ORD00350,2025-01-19,CUST0126,22,Female,Pune,P006,Backpack,Fashion,2,1299.7,0.0,2599.4,UPI
+ORD00351,2025-05-31,CUST0183,38,Male,Pune,P007,Water Bottle,Home & Kitchen,3,424.85,0.0,1274.55,Cash on Delivery
+ORD00352,2025-07-31,CUST0291,43,Female,Chennai,P001,Wireless Earbuds,Electronics,4,1639.18,0.0,6556.72,Net Banking
+ORD00353,2025-03-04,CUST0278,58,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,424.39,5.0,1209.51,Credit Card
+ORD00354,2025-05-09,CUST0080,49,Female,Pune,P002,Bluetooth Speaker,Electronics,4,2029.76,10.0,7307.14,Debit Card
+ORD00355,2025-08-07,CUST0079,23,Female,Bengaluru,P001,Wireless Earbuds,Electronics,2,1593.71,0.0,3187.42,Debit Card
+ORD00356,2025-05-19,CUST0154,51,Female,Chennai,P004,Cotton T-Shirt,Fashion,2,618.52,20.0,989.63,UPI
+ORD00357,2025-03-09,CUST0079,23,Female,Bengaluru,P011,Pen Pack,Stationery,2,143.73,5.0,273.09,Credit Card
+ORD00358,2025-09-18,CUST0216,59,Female,Vijayawada,P006,Backpack,Fashion,2,1209.7,20.0,1935.52,UPI
+ORD00359,2025-11-15,CUST0230,41,Female,Delhi,P006,Backpack,Fashion,2,1294.42,20.0,2071.07,Net Banking
+ORD00360,2025-08-28,CUST0027,52,Female,Delhi,P011,Pen Pack,Stationery,1,161.8,0.0,161.8,Net Banking
+ORD00361,2025-06-15,CUST0098,56,Male,Warangal,P005,Running Shoes,Fashion,3,1867.16,0.0,5601.48,Debit Card
+ORD00362,2025-08-12,CUST0270,48,Female,Warangal,P011,Pen Pack,Stationery,2,155.12,0.0,310.24,UPI
+ORD00363,2025-05-04,CUST0035,43,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2886.03,0.0,2886.03,Cash on Delivery
+ORD00364,2025-06-28,CUST0285,49,Female,Bengaluru,P011,Pen Pack,Stationery,3,160.21,0.0,480.63,UPI
+ORD00365,2025-07-16,CUST0282,54,Female,Delhi,P005,Running Shoes,Fashion,4,1821.85,0.0,7287.4,Debit Card
+ORD00366,2025-03-10,CUST0111,59,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,2,389.9,0.0,779.8,UPI
+ORD00367,2025-05-22,CUST0093,18,Female,Delhi,P008,Coffee Maker,Home & Kitchen,2,2712.45,5.0,5153.65,Net Banking
+ORD00368,2025-04-07,CUST0232,28,Male,Vijayawada,P001,Wireless Earbuds,Electronics,2,1525.24,5.0,2897.96,Net Banking
+ORD00369,2025-10-17,CUST0037,60,Male,Delhi,P011,Pen Pack,Stationery,4,135.85,0.0,543.4,Net Banking
+ORD00370,2025-01-07,CUST0210,52,Female,Warangal,P007,Water Bottle,Home & Kitchen,4,395.68,5.0,1503.58,UPI
+ORD00371,2025-10-02,CUST0010,54,Female,Delhi,P002,Bluetooth Speaker,Electronics,3,2202.38,10.0,5946.43,Net Banking
+ORD00372,2025-06-12,CUST0261,48,Male,Delhi,P008,Coffee Maker,Home & Kitchen,3,2861.94,15.0,7297.95,Cash on Delivery
+ORD00373,2025-01-14,CUST0158,39,Male,Bengaluru,P011,Pen Pack,Stationery,1,150.67,0.0,150.67,UPI
+ORD00374,2025-01-08,CUST0259,49,Female,Bengaluru,P010,Notebook Set,Stationery,3,245.03,0.0,735.09,UPI
+ORD00375,2025-03-16,CUST0212,18,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,2,825.93,15.0,1404.08,Cash on Delivery
+ORD00376,2025-03-12,CUST0230,41,Female,Delhi,P001,Wireless Earbuds,Electronics,1,1436.74,10.0,1293.07,Net Banking
+ORD00377,2025-04-23,CUST0177,23,Female,Mumbai,P008,Coffee Maker,Home & Kitchen,1,2686.55,0.0,2686.55,UPI
+ORD00378,2025-12-15,CUST0219,22,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2521.82,20.0,2017.46,Cash on Delivery
+ORD00379,2025-06-22,CUST0094,35,Male,Bengaluru,P010,Notebook Set,Stationery,1,248.31,0.0,248.31,UPI
+ORD00380,2025-04-17,CUST0098,56,Male,Warangal,P010,Notebook Set,Stationery,3,245.57,15.0,626.2,Debit Card
+ORD00381,2025-01-29,CUST0186,53,Male,Delhi,P012,Novel,Books,4,487.49,0.0,1949.96,Cash on Delivery
+ORD00382,2025-02-06,CUST0106,57,Female,Pune,P002,Bluetooth Speaker,Electronics,2,2055.86,5.0,3906.13,Cash on Delivery
+ORD00383,2025-01-12,CUST0185,49,Female,Bengaluru,P012,Novel,Books,4,455.78,0.0,1823.12,Cash on Delivery
+ORD00384,2025-05-01,CUST0025,28,Male,Pune,P004,Cotton T-Shirt,Fashion,2,657.23,0.0,1314.46,Credit Card
+ORD00385,2025-07-01,CUST0040,23,Female,Mumbai,P007,Water Bottle,Home & Kitchen,2,405.42,0.0,810.84,Credit Card
+ORD00386,2025-02-04,CUST0249,26,Female,Chennai,P004,Cotton T-Shirt,Fashion,1,590.42,15.0,501.86,Cash on Delivery
+ORD00387,2025-07-27,CUST0250,40,Female,Bengaluru,P005,Running Shoes,Fashion,3,1735.36,0.0,5206.08,Cash on Delivery
+ORD00388,2025-01-03,CUST0021,58,Female,Chennai,P007,Water Bottle,Home & Kitchen,3,382.09,0.0,1146.27,Cash on Delivery
+ORD00389,2025-11-01,CUST0298,42,Male,Hyderabad,P011,Pen Pack,Stationery,3,136.75,0.0,410.25,Net Banking
+ORD00390,2025-06-21,CUST0017,35,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,4,377.83,0.0,1511.32,Debit Card
+ORD00391,2025-06-28,CUST0086,45,Female,Bengaluru,P010,Notebook Set,Stationery,4,249.03,20.0,796.9,Debit Card
+ORD00392,2025-04-17,CUST0046,58,Female,Warangal,P007,Water Bottle,Home & Kitchen,4,363.23,15.0,1234.98,Debit Card
+ORD00393,2025-09-08,CUST0034,21,Male,Mumbai,P008,Coffee Maker,Home & Kitchen,4,2666.51,0.0,10666.04,UPI
+ORD00394,2025-06-06,CUST0110,42,Male,Vijayawada,P005,Running Shoes,Fashion,3,1884.65,0.0,5653.95,Credit Card
+ORD00395,2025-05-14,CUST0230,41,Female,Delhi,P004,Cotton T-Shirt,Fashion,4,557.06,15.0,1894.0,Credit Card
+ORD00396,2025-12-20,CUST0181,23,Male,Vijayawada,P007,Water Bottle,Home & Kitchen,1,414.47,0.0,414.47,Net Banking
+ORD00397,2025-01-04,CUST0132,31,Male,Bengaluru,P002,Bluetooth Speaker,Electronics,3,1999.88,10.0,5399.68,UPI
+ORD00398,2025-02-08,CUST0297,36,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,1,628.72,5.0,597.28,UPI
+ORD00399,2025-05-12,CUST0103,58,Male,Hyderabad,P010,Notebook Set,Stationery,4,224.64,5.0,853.63,UPI
+ORD00400,2025-07-03,CUST0298,42,Male,Hyderabad,P012,Novel,Books,2,468.01,5.0,889.22,UPI
+ORD00401,2025-10-17,CUST0184,57,Female,Delhi,P008,Coffee Maker,Home & Kitchen,1,2940.67,15.0,2499.57,Credit Card
+ORD00402,2025-09-30,CUST0242,58,Male,Mumbai,P003,Smart Watch,Electronics,1,3538.1,0.0,3538.1,Credit Card
+ORD00403,2025-09-06,CUST0161,46,Male,Vijayawada,P012,Novel,Books,3,546.36,0.0,1639.08,UPI
+ORD00404,2025-05-23,CUST0162,51,Female,Bengaluru,P012,Novel,Books,2,459.81,5.0,873.64,Credit Card
+ORD00405,2025-12-06,CUST0042,35,Male,Delhi,P001,Wireless Earbuds,Electronics,4,1386.23,0.0,5544.92,Cash on Delivery
+ORD00406,2025-12-05,CUST0230,41,Female,Delhi,P011,Pen Pack,Stationery,1,160.93,0.0,160.93,Cash on Delivery
+ORD00407,2025-08-19,CUST0017,35,Male,Bengaluru,P009,Desk Lamp,Home & Kitchen,4,945.27,15.0,3213.92,Net Banking
+ORD00408,2025-12-03,CUST0216,59,Female,Vijayawada,P011,Pen Pack,Stationery,3,143.71,20.0,344.9,Cash on Delivery
+ORD00409,2025-08-31,CUST0018,21,Male,Chennai,P008,Coffee Maker,Home & Kitchen,1,2763.8,10.0,2487.42,Credit Card
+ORD00410,2025-09-10,CUST0300,48,Female,Vijayawada,P006,Backpack,Fashion,1,1221.68,5.0,1160.6,Debit Card
+ORD00411,2025-01-18,CUST0252,23,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,1,391.36,5.0,371.79,Cash on Delivery
+ORD00412,2025-03-11,CUST0176,40,Male,Mumbai,P005,Running Shoes,Fashion,3,1982.64,10.0,5353.13,Cash on Delivery
+ORD00413,2025-07-16,CUST0240,35,Male,Pune,P008,Coffee Maker,Home & Kitchen,4,2858.45,0.0,11433.8,UPI
+ORD00414,2025-07-22,CUST0082,59,Male,Warangal,P011,Pen Pack,Stationery,3,160.12,0.0,480.36,Cash on Delivery
+ORD00415,2025-03-22,CUST0120,54,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2930.0,15.0,2490.5,Credit Card
+ORD00416,2025-09-23,CUST0179,49,Female,Delhi,P012,Novel,Books,3,482.89,15.0,1231.37,Debit Card
+ORD00417,2025-07-09,CUST0011,25,Male,Delhi,P009,Desk Lamp,Home & Kitchen,2,875.31,0.0,1750.62,Cash on Delivery
+ORD00418,2025-12-02,CUST0043,32,Male,Hyderabad,P005,Running Shoes,Fashion,1,1850.91,5.0,1758.36,Net Banking
+ORD00419,2025-02-08,CUST0296,44,Male,Vijayawada,P003,Smart Watch,Electronics,4,3385.85,15.0,11511.89,Net Banking
+ORD00420,2025-07-29,CUST0116,49,Male,Warangal,P011,Pen Pack,Stationery,4,158.02,10.0,568.87,UPI
+ORD00421,2025-05-27,CUST0271,57,Female,Vijayawada,P012,Novel,Books,1,454.18,20.0,363.34,Net Banking
+ORD00422,2025-08-23,CUST0266,51,Female,Pune,P008,Coffee Maker,Home & Kitchen,3,2828.25,15.0,7212.04,Credit Card
+ORD00423,2025-01-13,CUST0204,47,Female,Bengaluru,P006,Backpack,Fashion,1,1346.55,20.0,1077.24,Debit Card
+ORD00424,2025-08-07,CUST0249,26,Female,Chennai,P009,Desk Lamp,Home & Kitchen,2,818.69,20.0,1309.9,Net Banking
+ORD00425,2025-08-23,CUST0017,35,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,4,396.02,0.0,1584.08,Net Banking
+ORD00426,2025-04-26,CUST0036,60,Male,Warangal,P004,Cotton T-Shirt,Fashion,1,566.98,0.0,566.98,Net Banking
+ORD00427,2025-07-20,CUST0007,51,Female,Pune,P003,Smart Watch,Electronics,4,3299.65,0.0,13198.6,Credit Card
+ORD00428,2025-04-17,CUST0169,45,Female,Hyderabad,P010,Notebook Set,Stationery,2,255.28,0.0,510.56,Net Banking
+ORD00429,2025-11-26,CUST0289,36,Female,Vijayawada,P011,Pen Pack,Stationery,1,158.81,10.0,142.93,Debit Card
+ORD00430,2025-07-12,CUST0187,52,Male,Bengaluru,P008,Coffee Maker,Home & Kitchen,3,2905.64,20.0,6973.54,UPI
+ORD00431,2025-10-13,CUST0273,45,Male,Warangal,P008,Coffee Maker,Home & Kitchen,1,2730.3,0.0,2730.3,Net Banking
+ORD00432,2025-07-09,CUST0153,59,Male,Delhi,P004,Cotton T-Shirt,Fashion,3,591.45,0.0,1774.35,Credit Card
+ORD00433,2025-05-17,CUST0042,35,Male,Delhi,P007,Water Bottle,Home & Kitchen,4,436.5,0.0,1746.0,Cash on Delivery
+ORD00434,2025-03-30,CUST0096,18,Male,Vijayawada,P012,Novel,Books,2,503.32,10.0,905.98,Debit Card
+ORD00435,2025-04-15,CUST0228,33,Male,Hyderabad,P012,Novel,Books,2,518.24,0.0,1036.48,Credit Card
+ORD00436,2025-10-25,CUST0079,23,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,2,542.81,10.0,977.06,Cash on Delivery
+ORD00437,2025-07-08,CUST0035,43,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,1,917.69,0.0,917.69,Debit Card
+ORD00438,2025-01-30,CUST0013,47,Male,Delhi,P009,Desk Lamp,Home & Kitchen,1,926.87,0.0,926.87,Net Banking
+ORD00439,2025-10-02,CUST0198,41,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,425.08,5.0,1211.48,UPI
+ORD00440,2025-12-06,CUST0186,53,Male,Delhi,P004,Cotton T-Shirt,Fashion,3,642.0,20.0,1540.8,UPI
+ORD00441,2025-11-02,CUST0115,24,Male,Pune,P001,Wireless Earbuds,Electronics,2,1372.11,0.0,2744.22,Credit Card
+ORD00442,2025-03-16,CUST0002,36,Female,Delhi,P008,Coffee Maker,Home & Kitchen,2,2706.27,5.0,5141.91,UPI
+ORD00443,2025-10-08,CUST0027,52,Female,Delhi,P005,Running Shoes,Fashion,4,2048.31,10.0,7373.92,Net Banking
+ORD00444,2025-07-01,CUST0038,53,Male,Hyderabad,P010,Notebook Set,Stationery,2,269.58,0.0,539.16,UPI
+ORD00445,2025-12-13,CUST0282,54,Female,Delhi,P012,Novel,Books,3,490.14,10.0,1323.38,Debit Card
+ORD00446,2025-02-07,CUST0138,40,Male,Pune,P009,Desk Lamp,Home & Kitchen,4,814.78,10.0,2933.21,UPI
+ORD00447,2025-09-01,CUST0242,58,Male,Mumbai,P003,Smart Watch,Electronics,4,3394.89,15.0,11542.63,Net Banking
+ORD00448,2025-02-01,CUST0246,43,Female,Pune,P007,Water Bottle,Home & Kitchen,2,420.78,5.0,799.48,Credit Card
+ORD00449,2025-11-11,CUST0090,24,Female,Vijayawada,P003,Smart Watch,Electronics,2,3725.08,15.0,6332.64,Credit Card
+ORD00450,2025-08-02,CUST0264,39,Other,Vijayawada,P011,Pen Pack,Stationery,4,140.9,5.0,535.42,Net Banking
+ORD00451,2025-07-24,CUST0045,48,Female,Warangal,P006,Backpack,Fashion,3,1258.11,0.0,3774.33,Cash on Delivery
+ORD00452,2025-11-01,CUST0073,41,Male,Chennai,P012,Novel,Books,1,498.66,10.0,448.79,Net Banking
+ORD00453,2025-06-06,CUST0210,52,Female,Warangal,P007,Water Bottle,Home & Kitchen,1,396.16,0.0,396.16,Credit Card
+ORD00454,2025-10-29,CUST0247,43,Male,Pune,P005,Running Shoes,Fashion,1,1981.27,5.0,1882.21,Cash on Delivery
+ORD00455,2025-04-17,CUST0087,56,Female,Bengaluru,P011,Pen Pack,Stationery,2,160.37,10.0,288.67,Net Banking
+ORD00456,2025-01-25,CUST0240,35,Male,Pune,P001,Wireless Earbuds,Electronics,3,1602.83,0.0,4808.49,Net Banking
+ORD00457,2025-09-29,CUST0071,29,Female,Chennai,P010,Notebook Set,Stationery,2,246.65,20.0,394.64,Credit Card
+ORD00458,2025-10-06,CUST0119,36,Female,Chennai,P005,Running Shoes,Fashion,3,1749.34,15.0,4460.82,Credit Card
+ORD00459,2025-05-24,CUST0207,44,Female,Hyderabad,P005,Running Shoes,Fashion,4,1802.52,5.0,6849.58,Debit Card
+ORD00460,2025-09-27,CUST0242,58,Male,Mumbai,P005,Running Shoes,Fashion,4,1735.73,5.0,6595.77,Debit Card
+ORD00461,2025-06-13,CUST0091,54,Female,Vijayawada,P008,Coffee Maker,Home & Kitchen,3,2742.26,5.0,7815.44,Credit Card
+ORD00462,2025-10-14,CUST0175,49,Male,Mumbai,P003,Smart Watch,Electronics,3,3479.51,10.0,9394.68,Net Banking
+ORD00463,2025-10-20,CUST0020,32,Female,Warangal,P005,Running Shoes,Fashion,3,2033.32,0.0,6099.96,UPI
+ORD00464,2025-05-12,CUST0175,49,Male,Mumbai,P008,Coffee Maker,Home & Kitchen,2,2932.89,10.0,5279.2,Credit Card
+ORD00465,2025-07-06,CUST0052,37,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,2,652.75,0.0,1305.5,UPI
+ORD00466,2025-03-07,CUST0263,46,Male,Hyderabad,P003,Smart Watch,Electronics,4,3761.32,15.0,12788.49,UPI
+ORD00467,2025-05-24,CUST0163,59,Female,Delhi,P001,Wireless Earbuds,Electronics,4,1610.15,10.0,5796.54,Cash on Delivery
+ORD00468,2025-07-24,CUST0160,28,Female,Bengaluru,P001,Wireless Earbuds,Electronics,2,1592.63,5.0,3026.0,Cash on Delivery
+ORD00469,2025-03-25,CUST0153,59,Male,Delhi,P011,Pen Pack,Stationery,2,139.18,10.0,250.52,Net Banking
+ORD00470,2025-10-29,CUST0292,40,Male,Hyderabad,P001,Wireless Earbuds,Electronics,1,1423.95,15.0,1210.36,UPI
+ORD00471,2025-07-03,CUST0289,36,Female,Vijayawada,P003,Smart Watch,Electronics,2,3842.51,0.0,7685.02,Debit Card
+ORD00472,2025-04-02,CUST0167,43,Female,Pune,P007,Water Bottle,Home & Kitchen,3,423.53,0.0,1270.59,Credit Card
+ORD00473,2025-09-28,CUST0129,54,Male,Delhi,P003,Smart Watch,Electronics,2,3698.24,0.0,7396.48,UPI
+ORD00474,2025-09-16,CUST0119,36,Female,Chennai,P007,Water Bottle,Home & Kitchen,4,359.32,5.0,1365.42,Credit Card
+ORD00475,2025-04-10,CUST0011,25,Male,Delhi,P005,Running Shoes,Fashion,3,1883.82,0.0,5651.46,UPI
+ORD00476,2025-12-28,CUST0159,36,Female,Chennai,P004,Cotton T-Shirt,Fashion,3,608.02,15.0,1550.45,UPI
+ORD00477,2025-10-07,CUST0161,46,Male,Vijayawada,P003,Smart Watch,Electronics,1,3401.42,10.0,3061.28,UPI
+ORD00478,2025-12-28,CUST0062,45,Male,Hyderabad,P010,Notebook Set,Stationery,1,248.85,0.0,248.85,UPI
+ORD00479,2025-11-02,CUST0011,25,Male,Delhi,P009,Desk Lamp,Home & Kitchen,3,823.63,15.0,2100.26,Debit Card
+ORD00480,2025-07-11,CUST0240,35,Male,Pune,P011,Pen Pack,Stationery,4,154.91,5.0,588.66,Cash on Delivery
+ORD00481,2025-12-02,CUST0132,31,Male,Bengaluru,P008,Coffee Maker,Home & Kitchen,4,2575.37,0.0,10301.48,UPI
+ORD00482,2025-02-02,CUST0022,45,Male,Pune,P008,Coffee Maker,Home & Kitchen,4,2768.36,15.0,9412.42,Cash on Delivery
+ORD00483,2025-03-01,CUST0245,22,Female,Mumbai,P012,Novel,Books,2,528.89,15.0,899.11,UPI
+ORD00484,2025-08-28,CUST0015,41,Female,Warangal,P003,Smart Watch,Electronics,4,3397.34,5.0,12909.89,Cash on Delivery
+ORD00485,2025-02-19,CUST0031,36,Male,Pune,P004,Cotton T-Shirt,Fashion,3,553.11,0.0,1659.33,UPI
+ORD00486,2025-10-06,CUST0192,33,Male,Delhi,P003,Smart Watch,Electronics,2,3300.7,10.0,5941.26,Cash on Delivery
+ORD00487,2025-12-08,CUST0215,28,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,3,389.86,15.0,994.14,Cash on Delivery
+ORD00488,2025-10-22,CUST0023,51,Female,Delhi,P006,Backpack,Fashion,3,1425.9,5.0,4063.81,Net Banking
+ORD00489,2025-05-09,CUST0159,36,Female,Chennai,P008,Coffee Maker,Home & Kitchen,4,2899.48,10.0,10438.13,Credit Card
+ORD00490,2025-06-14,CUST0300,48,Female,Vijayawada,P001,Wireless Earbuds,Electronics,2,1367.48,0.0,2734.96,Debit Card
+ORD00491,2025-05-01,CUST0084,31,Female,Delhi,P003,Smart Watch,Electronics,3,3660.67,0.0,10982.01,Net Banking
+ORD00492,2025-03-17,CUST0050,32,Female,Hyderabad,P001,Wireless Earbuds,Electronics,1,1610.9,0.0,1610.9,Cash on Delivery
+ORD00493,2025-07-23,CUST0134,24,Male,Bengaluru,P001,Wireless Earbuds,Electronics,2,1433.8,5.0,2724.22,Credit Card
+ORD00494,2025-09-04,CUST0131,33,Female,Warangal,P002,Bluetooth Speaker,Electronics,4,2105.68,0.0,8422.72,Cash on Delivery
+ORD00495,2025-12-24,CUST0264,39,Other,Vijayawada,P012,Novel,Books,4,522.86,5.0,1986.87,Credit Card
+ORD00496,2025-02-17,CUST0066,52,Female,Warangal,P010,Notebook Set,Stationery,4,260.77,5.0,990.93,Credit Card
+ORD00497,2025-10-29,CUST0164,26,Female,Delhi,P006,Backpack,Fashion,1,1346.76,10.0,1212.08,Net Banking
+ORD00498,2025-08-12,CUST0195,36,Female,Hyderabad,P006,Backpack,Fashion,2,1265.67,10.0,2278.21,UPI
+ORD00499,2025-06-09,CUST0115,24,Male,Pune,P006,Backpack,Fashion,3,1232.84,0.0,3698.52,Credit Card
+ORD00500,2025-01-28,CUST0177,23,Female,Mumbai,P011,Pen Pack,Stationery,1,136.01,0.0,136.01,Cash on Delivery
+ORD00501,2025-06-07,CUST0187,52,Male,Bengaluru,P005,Running Shoes,Fashion,2,2018.65,0.0,4037.3,Debit Card
+ORD00502,2025-12-16,CUST0228,33,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,4,618.27,10.0,2225.77,Debit Card
+ORD00503,2025-06-01,CUST0002,36,Female,Delhi,P006,Backpack,Fashion,4,1305.57,0.0,5222.28,Debit Card
+ORD00504,2025-11-04,CUST0032,54,Female,Mumbai,P005,Running Shoes,Fashion,2,1756.14,5.0,3336.67,Debit Card
+ORD00505,2025-01-14,CUST0090,24,Female,Vijayawada,P012,Novel,Books,1,511.12,5.0,485.56,UPI
+ORD00506,2025-11-18,CUST0007,51,Female,Pune,P006,Backpack,Fashion,1,1199.88,0.0,1199.88,Credit Card
+ORD00507,2025-07-13,CUST0044,51,Male,Pune,P005,Running Shoes,Fashion,2,1709.48,0.0,3418.96,UPI
+ORD00508,2025-06-21,CUST0029,41,Female,Chennai,P004,Cotton T-Shirt,Fashion,3,578.52,0.0,1735.56,Debit Card
+ORD00509,2025-12-10,CUST0123,50,Female,Mumbai,P001,Wireless Earbuds,Electronics,2,1381.57,0.0,2763.14,UPI
+ORD00510,2025-08-24,CUST0044,51,Male,Pune,P011,Pen Pack,Stationery,4,152.51,20.0,488.03,Cash on Delivery
+ORD00511,2025-12-22,CUST0220,41,Female,Pune,P002,Bluetooth Speaker,Electronics,2,2068.82,10.0,3723.88,Debit Card
+ORD00512,2025-04-23,CUST0127,29,Male,Chennai,P002,Bluetooth Speaker,Electronics,2,2388.66,20.0,3821.86,UPI
+ORD00513,2025-08-25,CUST0145,57,Male,Mumbai,P005,Running Shoes,Fashion,3,2076.71,0.0,6230.13,Debit Card
+ORD00514,2025-11-15,CUST0277,31,Female,Warangal,P005,Running Shoes,Fashion,3,1976.63,5.0,5633.4,UPI
+ORD00515,2025-06-16,CUST0046,58,Female,Warangal,P009,Desk Lamp,Home & Kitchen,1,836.97,0.0,836.97,Credit Card
+ORD00516,2025-10-12,CUST0257,53,Male,Hyderabad,P011,Pen Pack,Stationery,1,155.22,0.0,155.22,Net Banking
+ORD00517,2025-09-04,CUST0263,46,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2005.48,5.0,1905.21,Credit Card
+ORD00518,2025-05-05,CUST0206,19,Female,Pune,P005,Running Shoes,Fashion,3,1847.8,5.0,5266.23,Cash on Delivery
+ORD00519,2025-07-25,CUST0174,58,Male,Vijayawada,P003,Smart Watch,Electronics,4,3766.26,10.0,13558.54,Cash on Delivery
+ORD00520,2025-11-30,CUST0142,56,Male,Warangal,P009,Desk Lamp,Home & Kitchen,2,824.54,0.0,1649.08,Credit Card
+ORD00521,2025-03-23,CUST0047,39,Male,Chennai,P012,Novel,Books,4,530.42,0.0,2121.68,Cash on Delivery
+ORD00522,2025-07-16,CUST0086,45,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,2,867.43,20.0,1387.89,Cash on Delivery
+ORD00523,2025-02-26,CUST0195,36,Female,Hyderabad,P011,Pen Pack,Stationery,4,157.25,0.0,629.0,Debit Card
+ORD00524,2025-09-09,CUST0275,53,Male,Delhi,P010,Notebook Set,Stationery,3,240.85,0.0,722.55,UPI
+ORD00525,2025-11-30,CUST0098,56,Male,Warangal,P003,Smart Watch,Electronics,3,3707.02,20.0,8896.85,Net Banking
+ORD00526,2025-12-05,CUST0031,36,Male,Pune,P009,Desk Lamp,Home & Kitchen,3,855.34,0.0,2566.02,Debit Card
+ORD00527,2025-07-29,CUST0252,23,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,1,561.06,5.0,533.01,UPI
+ORD00528,2025-12-08,CUST0196,55,Male,Pune,P004,Cotton T-Shirt,Fashion,1,650.59,15.0,553.0,Debit Card
+ORD00529,2025-09-17,CUST0059,18,Female,Delhi,P008,Coffee Maker,Home & Kitchen,3,2919.99,15.0,7445.97,UPI
+ORD00530,2025-09-20,CUST0185,49,Female,Bengaluru,P010,Notebook Set,Stationery,2,229.06,0.0,458.12,Cash on Delivery
+ORD00531,2025-01-23,CUST0224,40,Female,Vijayawada,P003,Smart Watch,Electronics,2,3533.21,0.0,7066.42,Credit Card
+ORD00532,2025-02-21,CUST0184,57,Female,Delhi,P008,Coffee Maker,Home & Kitchen,4,2979.19,5.0,11320.92,Credit Card
+ORD00533,2025-06-22,CUST0261,48,Male,Delhi,P007,Water Bottle,Home & Kitchen,1,411.38,0.0,411.38,Net Banking
+ORD00534,2025-08-22,CUST0294,34,Male,Warangal,P010,Notebook Set,Stationery,1,265.4,0.0,265.4,Debit Card
+ORD00535,2025-01-31,CUST0085,59,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,1,948.34,5.0,900.92,Debit Card
+ORD00536,2025-04-05,CUST0034,21,Male,Mumbai,P004,Cotton T-Shirt,Fashion,1,629.05,15.0,534.69,Credit Card
+ORD00537,2025-09-12,CUST0147,35,Male,Vijayawada,P010,Notebook Set,Stationery,2,237.97,10.0,428.35,Cash on Delivery
+ORD00538,2025-06-09,CUST0285,49,Female,Bengaluru,P003,Smart Watch,Electronics,1,3377.35,0.0,3377.35,Credit Card
+ORD00539,2025-06-23,CUST0106,57,Female,Pune,P009,Desk Lamp,Home & Kitchen,3,911.72,0.0,2735.16,Debit Card
+ORD00540,2025-01-02,CUST0043,32,Male,Hyderabad,P005,Running Shoes,Fashion,2,2035.61,0.0,4071.22,Cash on Delivery
+ORD00541,2025-01-24,CUST0141,41,Male,Hyderabad,P010,Notebook Set,Stationery,2,236.74,0.0,473.48,UPI
+ORD00542,2025-11-29,CUST0296,44,Male,Vijayawada,P002,Bluetooth Speaker,Electronics,3,2250.8,0.0,6752.4,UPI
+ORD00543,2025-05-19,CUST0174,58,Male,Vijayawada,P008,Coffee Maker,Home & Kitchen,4,3036.51,10.0,10931.44,Debit Card
+ORD00544,2025-03-06,CUST0135,37,Male,Hyderabad,P005,Running Shoes,Fashion,3,2079.56,10.0,5614.81,Debit Card
+ORD00545,2025-04-01,CUST0205,19,Other,Hyderabad,P012,Novel,Books,4,537.58,0.0,2150.32,Net Banking
+ORD00546,2025-11-12,CUST0195,36,Female,Hyderabad,P001,Wireless Earbuds,Electronics,4,1533.36,10.0,5520.1,Debit Card
+ORD00547,2025-03-20,CUST0060,46,Female,Chennai,P002,Bluetooth Speaker,Electronics,4,2097.8,5.0,7971.64,Net Banking
+ORD00548,2025-04-27,CUST0133,57,Male,Vijayawada,P002,Bluetooth Speaker,Electronics,1,2367.36,0.0,2367.36,Credit Card
+ORD00549,2025-03-08,CUST0275,53,Male,Delhi,P005,Running Shoes,Fashion,3,1986.97,0.0,5960.91,Credit Card
+ORD00550,2025-07-16,CUST0005,40,Male,Warangal,P007,Water Bottle,Home & Kitchen,4,424.2,15.0,1442.28,Cash on Delivery
+ORD00551,2025-05-04,CUST0004,49,Female,Delhi,P011,Pen Pack,Stationery,3,152.31,10.0,411.24,Cash on Delivery
+ORD00552,2025-04-02,CUST0081,31,Female,Hyderabad,P003,Smart Watch,Electronics,1,3228.81,10.0,2905.93,Cash on Delivery
+ORD00553,2025-04-26,CUST0246,43,Female,Pune,P010,Notebook Set,Stationery,3,234.32,5.0,667.81,Cash on Delivery
+ORD00554,2025-03-03,CUST0165,50,Male,Pune,P010,Notebook Set,Stationery,4,267.67,15.0,910.08,Net Banking
+ORD00555,2025-06-19,CUST0118,25,Female,Vijayawada,P012,Novel,Books,1,453.84,0.0,453.84,Credit Card
+ORD00556,2025-12-09,CUST0118,25,Female,Vijayawada,P008,Coffee Maker,Home & Kitchen,2,2614.23,0.0,5228.46,Net Banking
+ORD00557,2025-10-05,CUST0017,35,Male,Bengaluru,P012,Novel,Books,3,513.07,10.0,1385.29,Debit Card
+ORD00558,2025-01-09,CUST0100,19,Male,Warangal,P009,Desk Lamp,Home & Kitchen,3,842.67,0.0,2528.01,Net Banking
+ORD00559,2025-09-17,CUST0205,19,Other,Hyderabad,P004,Cotton T-Shirt,Fashion,2,617.74,5.0,1173.71,Debit Card
+ORD00560,2025-10-24,CUST0190,49,Female,Chennai,P002,Bluetooth Speaker,Electronics,1,2275.23,0.0,2275.23,Credit Card
+ORD00561,2025-05-02,CUST0196,55,Male,Pune,P002,Bluetooth Speaker,Electronics,4,2124.78,5.0,8074.16,UPI
+ORD00562,2025-04-03,CUST0058,41,Female,Warangal,P009,Desk Lamp,Home & Kitchen,1,906.5,10.0,815.85,UPI
+ORD00563,2025-06-05,CUST0220,41,Female,Pune,P012,Novel,Books,1,539.03,0.0,539.03,Cash on Delivery
+ORD00564,2025-07-28,CUST0013,47,Male,Delhi,P004,Cotton T-Shirt,Fashion,3,630.27,0.0,1890.81,Net Banking
+ORD00565,2025-05-18,CUST0022,45,Male,Pune,P010,Notebook Set,Stationery,1,239.21,0.0,239.21,Debit Card
+ORD00566,2025-05-29,CUST0299,25,Female,Pune,P001,Wireless Earbuds,Electronics,1,1597.04,10.0,1437.34,Cash on Delivery
+ORD00567,2025-11-10,CUST0021,58,Female,Chennai,P009,Desk Lamp,Home & Kitchen,1,842.15,0.0,842.15,UPI
+ORD00568,2025-05-25,CUST0180,40,Female,Chennai,P004,Cotton T-Shirt,Fashion,2,553.93,0.0,1107.86,UPI
+ORD00569,2025-01-21,CUST0014,33,Male,Chennai,P001,Wireless Earbuds,Electronics,4,1623.72,0.0,6494.88,Cash on Delivery
+ORD00570,2025-01-20,CUST0295,31,Male,Warangal,P002,Bluetooth Speaker,Electronics,4,2041.8,10.0,7350.48,Cash on Delivery
+ORD00571,2025-02-05,CUST0020,32,Female,Warangal,P009,Desk Lamp,Home & Kitchen,1,843.0,0.0,843.0,Net Banking
+ORD00572,2025-03-05,CUST0182,51,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,4,619.6,20.0,1982.72,Cash on Delivery
+ORD00573,2025-01-15,CUST0144,30,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,2,964.99,0.0,1929.98,Cash on Delivery
+ORD00574,2025-10-05,CUST0002,36,Female,Delhi,P001,Wireless Earbuds,Electronics,3,1630.02,5.0,4645.56,Credit Card
+ORD00575,2025-01-22,CUST0248,28,Female,Delhi,P003,Smart Watch,Electronics,1,3205.47,10.0,2884.92,UPI
+ORD00576,2025-04-17,CUST0260,56,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2105.9,0.0,2105.9,UPI
+ORD00577,2025-09-13,CUST0074,59,Female,Bengaluru,P007,Water Bottle,Home & Kitchen,2,410.8,0.0,821.6,Credit Card
+ORD00578,2025-07-27,CUST0167,43,Female,Pune,P007,Water Bottle,Home & Kitchen,1,371.41,10.0,334.27,Net Banking
+ORD00579,2025-12-01,CUST0093,18,Female,Delhi,P012,Novel,Books,4,513.91,20.0,1644.51,Net Banking
+ORD00580,2025-03-19,CUST0126,22,Female,Pune,P002,Bluetooth Speaker,Electronics,1,2006.62,0.0,2006.62,UPI
+ORD00581,2025-09-13,CUST0189,21,Male,Vijayawada,P005,Running Shoes,Fashion,1,2009.39,5.0,1908.92,Cash on Delivery
+ORD00582,2025-08-11,CUST0044,51,Male,Pune,P011,Pen Pack,Stationery,3,144.67,0.0,434.01,UPI
+ORD00583,2025-04-11,CUST0023,51,Female,Delhi,P004,Cotton T-Shirt,Fashion,4,636.36,10.0,2290.9,Credit Card
+ORD00584,2025-12-25,CUST0209,37,Female,Warangal,P003,Smart Watch,Electronics,1,3714.42,0.0,3714.42,Cash on Delivery
+ORD00585,2025-06-26,CUST0089,30,Other,Chennai,P008,Coffee Maker,Home & Kitchen,2,2765.05,0.0,5530.1,UPI
+ORD00586,2025-01-06,CUST0156,36,Male,Chennai,P005,Running Shoes,Fashion,1,1771.48,20.0,1417.18,UPI
+ORD00587,2025-05-10,CUST0073,41,Male,Chennai,P004,Cotton T-Shirt,Fashion,1,577.69,15.0,491.04,Net Banking
+ORD00588,2025-02-18,CUST0169,45,Female,Hyderabad,P009,Desk Lamp,Home & Kitchen,4,863.03,5.0,3279.51,UPI
+ORD00589,2025-10-20,CUST0089,30,Other,Chennai,P005,Running Shoes,Fashion,2,2043.11,5.0,3881.91,UPI
+ORD00590,2025-12-13,CUST0292,40,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,380.72,0.0,1142.16,Debit Card
+ORD00591,2025-02-07,CUST0083,24,Male,Mumbai,P010,Notebook Set,Stationery,1,239.48,5.0,227.51,UPI
+ORD00592,2025-04-19,CUST0013,47,Male,Delhi,P001,Wireless Earbuds,Electronics,1,1557.8,5.0,1479.91,UPI
+ORD00593,2025-03-25,CUST0253,49,Female,Mumbai,P005,Running Shoes,Fashion,1,1780.8,10.0,1602.72,Credit Card
+ORD00594,2025-04-25,CUST0286,55,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,1,654.07,10.0,588.66,Debit Card
+ORD00595,2025-09-15,CUST0208,55,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,3,956.5,5.0,2726.03,Debit Card
+ORD00596,2025-08-20,CUST0161,46,Male,Vijayawada,P002,Bluetooth Speaker,Electronics,2,2025.39,0.0,4050.78,Cash on Delivery
+ORD00597,2025-02-04,CUST0011,25,Male,Delhi,P004,Cotton T-Shirt,Fashion,1,561.95,10.0,505.75,UPI
+ORD00598,2025-02-18,CUST0189,21,Male,Vijayawada,P002,Bluetooth Speaker,Electronics,2,2018.76,0.0,4037.52,Debit Card
+ORD00599,2025-07-31,CUST0187,52,Male,Bengaluru,P009,Desk Lamp,Home & Kitchen,3,897.48,5.0,2557.82,UPI
+ORD00600,2025-11-11,CUST0290,23,Male,Delhi,P005,Running Shoes,Fashion,4,1897.85,0.0,7591.4,Debit Card
+ORD00601,2025-04-27,CUST0041,60,Male,Pune,P012,Novel,Books,2,474.64,20.0,759.42,UPI
+ORD00602,2025-03-17,CUST0216,59,Female,Vijayawada,P005,Running Shoes,Fashion,1,1732.6,5.0,1645.97,UPI
+ORD00603,2025-12-07,CUST0097,19,Female,Hyderabad,P001,Wireless Earbuds,Electronics,1,1629.98,5.0,1548.48,Cash on Delivery
+ORD00604,2025-03-12,CUST0185,49,Female,Bengaluru,P006,Backpack,Fashion,2,1185.72,0.0,2371.44,Cash on Delivery
+ORD00605,2025-04-24,CUST0030,19,Male,Warangal,P002,Bluetooth Speaker,Electronics,4,1984.58,0.0,7938.32,Cash on Delivery
+ORD00606,2025-03-15,CUST0213,53,Female,Mumbai,P002,Bluetooth Speaker,Electronics,4,2244.87,0.0,8979.48,Net Banking
+ORD00607,2025-07-04,CUST0028,38,Female,Pune,P011,Pen Pack,Stationery,4,140.75,20.0,450.4,Debit Card
+ORD00608,2025-06-14,CUST0083,24,Male,Mumbai,P009,Desk Lamp,Home & Kitchen,1,852.73,0.0,852.73,Credit Card
+ORD00609,2025-11-19,CUST0101,60,Other,Delhi,P007,Water Bottle,Home & Kitchen,3,382.43,5.0,1089.93,UPI
+ORD00610,2025-03-12,CUST0103,58,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,4,837.44,5.0,3182.27,UPI
+ORD00611,2025-10-18,CUST0136,48,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,4,915.11,10.0,3294.4,Credit Card
+ORD00612,2025-11-23,CUST0118,25,Female,Vijayawada,P011,Pen Pack,Stationery,1,137.56,0.0,137.56,UPI
+ORD00613,2025-05-11,CUST0061,24,Female,Mumbai,P006,Backpack,Fashion,2,1314.74,5.0,2498.01,Debit Card
+ORD00614,2025-03-07,CUST0204,47,Female,Bengaluru,P003,Smart Watch,Electronics,3,3371.68,5.0,9609.29,Credit Card
+ORD00615,2025-04-25,CUST0260,56,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2704.01,10.0,2433.61,Credit Card
+ORD00616,2025-01-01,CUST0195,36,Female,Hyderabad,P005,Running Shoes,Fashion,1,1876.61,0.0,1876.61,Net Banking
+ORD00617,2025-03-01,CUST0261,48,Male,Delhi,P011,Pen Pack,Stationery,1,149.22,0.0,149.22,Cash on Delivery
+ORD00618,2025-04-19,CUST0004,49,Female,Delhi,P008,Coffee Maker,Home & Kitchen,4,2773.77,0.0,11095.08,Net Banking
+ORD00619,2025-12-03,CUST0042,35,Male,Delhi,P011,Pen Pack,Stationery,2,150.69,0.0,301.38,Debit Card
+ORD00620,2025-07-10,CUST0206,19,Female,Pune,P012,Novel,Books,3,543.36,0.0,1630.08,Debit Card
+ORD00621,2025-09-13,CUST0264,39,Other,Vijayawada,P002,Bluetooth Speaker,Electronics,2,2407.51,0.0,4815.02,Credit Card
+ORD00622,2025-09-24,CUST0223,18,Female,Bengaluru,P011,Pen Pack,Stationery,4,136.33,10.0,490.79,UPI
+ORD00623,2025-01-26,CUST0144,30,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,4,2986.21,5.0,11347.6,Debit Card
+ORD00624,2025-05-31,CUST0273,45,Male,Warangal,P001,Wireless Earbuds,Electronics,4,1592.69,0.0,6370.76,Debit Card
+ORD00625,2025-02-06,CUST0263,46,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,411.68,0.0,1235.04,Debit Card
+ORD00626,2025-08-14,CUST0154,51,Female,Chennai,P007,Water Bottle,Home & Kitchen,1,383.0,10.0,344.7,Credit Card
+ORD00627,2025-01-21,CUST0020,32,Female,Warangal,P010,Notebook Set,Stationery,3,266.44,15.0,679.42,Debit Card
+ORD00628,2025-05-07,CUST0103,58,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,3,587.33,5.0,1673.89,UPI
+ORD00629,2025-11-17,CUST0204,47,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,4,2385.6,15.0,8111.04,Cash on Delivery
+ORD00630,2025-06-13,CUST0169,45,Female,Hyderabad,P003,Smart Watch,Electronics,3,3838.13,0.0,11514.39,Credit Card
+ORD00631,2025-05-01,CUST0046,58,Female,Warangal,P007,Water Bottle,Home & Kitchen,4,384.82,0.0,1539.28,Debit Card
+ORD00632,2025-01-18,CUST0179,49,Female,Delhi,P004,Cotton T-Shirt,Fashion,2,561.61,0.0,1123.22,UPI
+ORD00633,2025-05-03,CUST0031,36,Male,Pune,P011,Pen Pack,Stationery,1,154.34,10.0,138.91,Credit Card
+ORD00634,2025-10-24,CUST0099,33,Female,Mumbai,P012,Novel,Books,4,518.15,0.0,2072.6,Debit Card
+ORD00635,2025-12-28,CUST0010,54,Female,Delhi,P001,Wireless Earbuds,Electronics,1,1583.63,20.0,1266.9,UPI
+ORD00636,2025-04-04,CUST0271,57,Female,Vijayawada,P001,Wireless Earbuds,Electronics,1,1586.5,10.0,1427.85,Debit Card
+ORD00637,2025-04-16,CUST0105,59,Female,Hyderabad,P001,Wireless Earbuds,Electronics,2,1574.35,10.0,2833.83,UPI
+ORD00638,2025-10-17,CUST0186,53,Male,Delhi,P005,Running Shoes,Fashion,2,1826.98,0.0,3653.96,Net Banking
+ORD00639,2025-07-21,CUST0151,44,Male,Delhi,P006,Backpack,Fashion,4,1275.49,5.0,4846.86,Cash on Delivery
+ORD00640,2025-03-05,CUST0130,55,Female,Hyderabad,P010,Notebook Set,Stationery,4,269.37,5.0,1023.61,Net Banking
+ORD00641,2025-09-15,CUST0086,45,Female,Bengaluru,P006,Backpack,Fashion,2,1386.9,5.0,2635.11,Debit Card
+ORD00642,2025-04-22,CUST0210,52,Female,Warangal,P003,Smart Watch,Electronics,3,3622.44,0.0,10867.32,Cash on Delivery
+ORD00643,2025-08-03,CUST0186,53,Male,Delhi,P006,Backpack,Fashion,2,1169.74,15.0,1988.56,Debit Card
+ORD00644,2025-03-26,CUST0184,57,Female,Delhi,P005,Running Shoes,Fashion,1,2019.15,10.0,1817.24,Cash on Delivery
+ORD00645,2025-11-08,CUST0103,58,Male,Hyderabad,P005,Running Shoes,Fashion,2,1866.35,5.0,3546.07,Credit Card
+ORD00646,2025-01-11,CUST0001,21,Male,Delhi,P008,Coffee Maker,Home & Kitchen,3,2921.13,5.0,8325.22,Debit Card
+ORD00647,2025-09-06,CUST0129,54,Male,Delhi,P010,Notebook Set,Stationery,3,237.95,20.0,571.08,Cash on Delivery
+ORD00648,2025-06-12,CUST0213,53,Female,Mumbai,P002,Bluetooth Speaker,Electronics,4,2406.26,10.0,8662.54,Net Banking
+ORD00649,2025-03-04,CUST0275,53,Male,Delhi,P008,Coffee Maker,Home & Kitchen,4,2823.27,10.0,10163.77,Debit Card
+ORD00650,2025-08-06,CUST0157,43,Male,Warangal,P008,Coffee Maker,Home & Kitchen,4,2580.49,5.0,9805.86,Credit Card
+ORD00651,2025-02-09,CUST0298,42,Male,Hyderabad,P006,Backpack,Fashion,3,1208.99,15.0,3082.92,Net Banking
+ORD00652,2025-01-10,CUST0146,22,Male,Delhi,P006,Backpack,Fashion,1,1173.38,0.0,1173.38,Debit Card
+ORD00653,2025-10-18,CUST0189,21,Male,Vijayawada,P009,Desk Lamp,Home & Kitchen,2,850.15,5.0,1615.28,Net Banking
+ORD00654,2025-09-25,CUST0047,39,Male,Chennai,P003,Smart Watch,Electronics,2,3771.08,15.0,6410.84,Debit Card
+ORD00655,2025-05-01,CUST0135,37,Male,Hyderabad,P003,Smart Watch,Electronics,1,3478.67,5.0,3304.74,Net Banking
+ORD00656,2025-06-17,CUST0300,48,Female,Vijayawada,P002,Bluetooth Speaker,Electronics,1,2353.79,5.0,2236.1,Net Banking
+ORD00657,2025-07-09,CUST0085,59,Female,Bengaluru,P005,Running Shoes,Fashion,1,1820.18,10.0,1638.16,Net Banking
+ORD00658,2025-06-06,CUST0150,42,Female,Delhi,P007,Water Bottle,Home & Kitchen,4,408.79,10.0,1471.64,Debit Card
+ORD00659,2025-11-27,CUST0182,51,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,1,373.82,20.0,299.06,Credit Card
+ORD00660,2025-07-26,CUST0244,38,Male,Chennai,P010,Notebook Set,Stationery,4,248.15,0.0,992.6,Net Banking
+ORD00661,2025-02-21,CUST0054,51,Male,Chennai,P010,Notebook Set,Stationery,4,239.39,0.0,957.56,Credit Card
+ORD00662,2025-06-04,CUST0097,19,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,2,2978.19,10.0,5360.74,Credit Card
+ORD00663,2025-10-07,CUST0047,39,Male,Chennai,P001,Wireless Earbuds,Electronics,1,1586.55,0.0,1586.55,Debit Card
+ORD00664,2025-12-29,CUST0217,54,Female,Pune,P005,Running Shoes,Fashion,4,2013.21,5.0,7650.2,Credit Card
+ORD00665,2025-04-17,CUST0224,40,Female,Vijayawada,P010,Notebook Set,Stationery,2,264.13,0.0,528.26,Credit Card
+ORD00666,2025-06-23,CUST0242,58,Male,Mumbai,P006,Backpack,Fashion,1,1180.63,15.0,1003.54,Net Banking
+ORD00667,2025-12-14,CUST0223,18,Female,Bengaluru,P011,Pen Pack,Stationery,2,147.16,0.0,294.32,Credit Card
+ORD00668,2025-06-10,CUST0040,23,Female,Mumbai,P001,Wireless Earbuds,Electronics,3,1415.07,0.0,4245.21,Net Banking
+ORD00669,2025-03-31,CUST0151,44,Male,Delhi,P002,Bluetooth Speaker,Electronics,1,2066.6,0.0,2066.6,Credit Card
+ORD00670,2025-01-06,CUST0197,38,Female,Mumbai,P005,Running Shoes,Fashion,2,1942.69,10.0,3496.84,Net Banking
+ORD00671,2025-05-14,CUST0173,37,Female,Delhi,P009,Desk Lamp,Home & Kitchen,2,837.82,0.0,1675.64,Credit Card
+ORD00672,2025-09-23,CUST0290,23,Male,Delhi,P007,Water Bottle,Home & Kitchen,3,381.25,15.0,972.19,Debit Card
+ORD00673,2025-07-24,CUST0121,30,Female,Delhi,P009,Desk Lamp,Home & Kitchen,2,968.25,10.0,1742.85,Net Banking
+ORD00674,2025-10-03,CUST0193,24,Other,Chennai,P002,Bluetooth Speaker,Electronics,1,2025.89,5.0,1924.6,Net Banking
+ORD00675,2025-08-03,CUST0233,35,Female,Mumbai,P005,Running Shoes,Fashion,2,1732.58,15.0,2945.39,UPI
+ORD00676,2025-08-24,CUST0065,47,Female,Hyderabad,P004,Cotton T-Shirt,Fashion,4,603.12,0.0,2412.48,Credit Card
+ORD00677,2025-03-06,CUST0035,43,Male,Hyderabad,P010,Notebook Set,Stationery,3,226.68,10.0,612.04,Credit Card
+ORD00678,2025-06-07,CUST0106,57,Female,Pune,P003,Smart Watch,Electronics,2,3322.0,0.0,6644.0,Net Banking
+ORD00679,2025-04-23,CUST0283,41,Female,Pune,P003,Smart Watch,Electronics,4,3291.26,0.0,13165.04,Net Banking
+ORD00680,2025-09-04,CUST0025,28,Male,Pune,P007,Water Bottle,Home & Kitchen,1,392.38,0.0,392.38,Net Banking
+ORD00681,2025-11-28,CUST0067,60,Male,Mumbai,P003,Smart Watch,Electronics,4,3771.93,10.0,13578.95,Credit Card
+ORD00682,2025-05-02,CUST0073,41,Male,Chennai,P004,Cotton T-Shirt,Fashion,2,564.4,0.0,1128.8,UPI
+ORD00683,2025-05-12,CUST0033,42,Female,Pune,P007,Water Bottle,Home & Kitchen,4,407.84,0.0,1631.36,UPI
+ORD00684,2025-05-17,CUST0104,30,Female,Warangal,P012,Novel,Books,4,536.76,5.0,2039.69,Credit Card
+ORD00685,2025-01-20,CUST0090,24,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,4,627.5,0.0,2510.0,Net Banking
+ORD00686,2025-10-05,CUST0128,29,Female,Warangal,P009,Desk Lamp,Home & Kitchen,2,842.27,0.0,1684.54,UPI
+ORD00687,2025-08-13,CUST0112,39,Female,Pune,P012,Novel,Books,3,487.16,0.0,1461.48,Credit Card
+ORD00688,2025-03-28,CUST0181,23,Male,Vijayawada,P008,Coffee Maker,Home & Kitchen,1,2822.82,0.0,2822.82,Cash on Delivery
+ORD00689,2025-01-18,CUST0086,45,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,3,542.07,0.0,1626.21,Cash on Delivery
+ORD00690,2025-12-27,CUST0266,51,Female,Pune,P002,Bluetooth Speaker,Electronics,1,2231.57,0.0,2231.57,Cash on Delivery
+ORD00691,2025-05-01,CUST0025,28,Male,Pune,P002,Bluetooth Speaker,Electronics,3,2273.81,0.0,6821.43,Net Banking
+ORD00692,2025-12-16,CUST0221,21,Male,Delhi,P009,Desk Lamp,Home & Kitchen,4,945.46,10.0,3403.66,Net Banking
+ORD00693,2025-10-31,CUST0267,50,Female,Chennai,P011,Pen Pack,Stationery,4,155.86,15.0,529.92,Net Banking
+ORD00694,2025-07-26,CUST0281,18,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,2,2876.41,15.0,4889.9,Debit Card
+ORD00695,2025-10-27,CUST0045,48,Female,Warangal,P006,Backpack,Fashion,3,1376.77,20.0,3304.25,Cash on Delivery
+ORD00696,2025-07-18,CUST0075,54,Male,Chennai,P007,Water Bottle,Home & Kitchen,3,419.5,15.0,1069.72,Net Banking
+ORD00697,2025-07-31,CUST0135,37,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,372.45,20.0,893.88,Credit Card
+ORD00698,2025-10-17,CUST0077,41,Female,Warangal,P006,Backpack,Fashion,3,1375.85,0.0,4127.55,Debit Card
+ORD00699,2025-11-09,CUST0139,53,Female,Bengaluru,P003,Smart Watch,Electronics,1,3506.53,0.0,3506.53,UPI
+ORD00700,2025-10-06,CUST0216,59,Female,Vijayawada,P003,Smart Watch,Electronics,2,3762.4,0.0,7524.8,Credit Card
+ORD00701,2025-07-06,CUST0258,42,Male,Bengaluru,P002,Bluetooth Speaker,Electronics,3,2177.33,10.0,5878.79,Cash on Delivery
+ORD00702,2025-04-14,CUST0140,49,Female,Vijayawada,P005,Running Shoes,Fashion,2,1808.48,20.0,2893.57,Credit Card
+ORD00703,2025-12-27,CUST0071,29,Female,Chennai,P002,Bluetooth Speaker,Electronics,1,2122.88,0.0,2122.88,Credit Card
+ORD00704,2025-11-01,CUST0075,54,Male,Chennai,P010,Notebook Set,Stationery,1,263.44,0.0,263.44,Debit Card
+ORD00705,2025-08-19,CUST0067,60,Male,Mumbai,P008,Coffee Maker,Home & Kitchen,2,3045.24,20.0,4872.38,Debit Card
+ORD00706,2025-05-10,CUST0205,19,Other,Hyderabad,P008,Coffee Maker,Home & Kitchen,4,2962.7,10.0,10665.72,Debit Card
+ORD00707,2025-10-04,CUST0186,53,Male,Delhi,P001,Wireless Earbuds,Electronics,4,1637.46,0.0,6549.84,Debit Card
+ORD00708,2025-05-11,CUST0251,52,Female,Pune,P004,Cotton T-Shirt,Fashion,4,566.2,20.0,1811.84,Debit Card
+ORD00709,2025-02-16,CUST0059,18,Female,Delhi,P012,Novel,Books,3,483.93,10.0,1306.61,UPI
+ORD00710,2025-10-29,CUST0067,60,Male,Mumbai,P009,Desk Lamp,Home & Kitchen,2,813.29,5.0,1545.25,UPI
+ORD00711,2025-08-25,CUST0036,60,Male,Warangal,P008,Coffee Maker,Home & Kitchen,3,2954.83,0.0,8864.49,UPI
+ORD00712,2025-01-29,CUST0083,24,Male,Mumbai,P002,Bluetooth Speaker,Electronics,1,2069.98,0.0,2069.98,Credit Card
+ORD00713,2025-02-27,CUST0082,59,Male,Warangal,P001,Wireless Earbuds,Electronics,1,1548.8,10.0,1393.92,Cash on Delivery
+ORD00714,2025-11-03,CUST0281,18,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,4,607.12,5.0,2307.06,UPI
+ORD00715,2025-06-07,CUST0067,60,Male,Mumbai,P001,Wireless Earbuds,Electronics,3,1466.1,0.0,4398.3,UPI
+ORD00716,2025-08-20,CUST0084,31,Female,Delhi,P002,Bluetooth Speaker,Electronics,3,2348.95,10.0,6342.17,Cash on Delivery
+ORD00717,2025-01-12,CUST0033,42,Female,Pune,P007,Water Bottle,Home & Kitchen,3,416.79,5.0,1187.85,Credit Card
+ORD00718,2025-08-21,CUST0082,59,Male,Warangal,P002,Bluetooth Speaker,Electronics,2,2390.58,5.0,4542.1,Cash on Delivery
+ORD00719,2025-06-01,CUST0127,29,Male,Chennai,P008,Coffee Maker,Home & Kitchen,4,2782.31,0.0,11129.24,UPI
+ORD00720,2025-10-05,CUST0132,31,Male,Bengaluru,P009,Desk Lamp,Home & Kitchen,3,816.28,0.0,2448.84,Cash on Delivery
+ORD00721,2025-08-23,CUST0108,19,Female,Pune,P009,Desk Lamp,Home & Kitchen,4,926.44,10.0,3335.18,UPI
+ORD00722,2025-08-21,CUST0288,47,Female,Delhi,P011,Pen Pack,Stationery,3,155.92,0.0,467.76,Cash on Delivery
+ORD00723,2025-06-04,CUST0022,45,Male,Pune,P004,Cotton T-Shirt,Fashion,3,572.37,0.0,1717.11,Net Banking
+ORD00724,2025-05-19,CUST0118,25,Female,Vijayawada,P006,Backpack,Fashion,3,1226.23,0.0,3678.69,Net Banking
+ORD00725,2025-01-30,CUST0202,49,Male,Delhi,P009,Desk Lamp,Home & Kitchen,2,893.6,0.0,1787.2,Net Banking
+ORD00726,2025-07-22,CUST0203,34,Female,Vijayawada,P001,Wireless Earbuds,Electronics,2,1633.69,5.0,3104.01,Credit Card
+ORD00727,2025-08-15,CUST0002,36,Female,Delhi,P004,Cotton T-Shirt,Fashion,1,595.05,0.0,595.05,Net Banking
+ORD00728,2025-08-01,CUST0062,45,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2031.82,0.0,2031.82,Net Banking
+ORD00729,2025-12-14,CUST0063,51,Female,Hyderabad,P001,Wireless Earbuds,Electronics,1,1355.09,0.0,1355.09,Credit Card
+ORD00730,2025-11-17,CUST0216,59,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,4,415.99,20.0,1331.17,Debit Card
+ORD00731,2025-12-27,CUST0069,24,Male,Vijayawada,P001,Wireless Earbuds,Electronics,3,1603.75,20.0,3849.0,Debit Card
+ORD00732,2025-06-26,CUST0077,41,Female,Warangal,P007,Water Bottle,Home & Kitchen,1,412.03,5.0,391.43,Debit Card
+ORD00733,2025-08-15,CUST0252,23,Female,Vijayawada,P012,Novel,Books,4,480.14,0.0,1920.56,Net Banking
+ORD00734,2025-09-26,CUST0041,60,Male,Pune,P007,Water Bottle,Home & Kitchen,1,370.54,10.0,333.49,Net Banking
+ORD00735,2025-05-17,CUST0071,29,Female,Chennai,P007,Water Bottle,Home & Kitchen,1,412.45,15.0,350.58,Debit Card
+ORD00736,2025-02-27,CUST0265,37,Male,Delhi,P007,Water Bottle,Home & Kitchen,3,424.53,5.0,1209.91,Debit Card
+ORD00737,2025-05-22,CUST0245,22,Female,Mumbai,P011,Pen Pack,Stationery,2,145.9,0.0,291.8,Debit Card
+ORD00738,2025-10-10,CUST0156,36,Male,Chennai,P012,Novel,Books,3,515.01,0.0,1545.03,Debit Card
+ORD00739,2025-05-07,CUST0260,56,Female,Hyderabad,P011,Pen Pack,Stationery,1,161.6,0.0,161.6,Credit Card
+ORD00740,2025-02-06,CUST0169,45,Female,Hyderabad,P003,Smart Watch,Electronics,3,3728.99,15.0,9508.92,UPI
+ORD00741,2025-08-02,CUST0196,55,Male,Pune,P007,Water Bottle,Home & Kitchen,4,399.81,0.0,1599.24,Cash on Delivery
+ORD00742,2025-04-16,CUST0150,42,Female,Delhi,P001,Wireless Earbuds,Electronics,2,1451.84,5.0,2758.5,Cash on Delivery
+ORD00743,2025-01-27,CUST0240,35,Male,Pune,P002,Bluetooth Speaker,Electronics,2,2060.75,0.0,4121.5,Credit Card
+ORD00744,2025-04-28,CUST0183,38,Male,Pune,P010,Notebook Set,Stationery,1,268.01,0.0,268.01,Credit Card
+ORD00745,2025-04-18,CUST0261,48,Male,Delhi,P011,Pen Pack,Stationery,4,146.78,20.0,469.7,Cash on Delivery
+ORD00746,2025-01-17,CUST0284,52,Male,Delhi,P010,Notebook Set,Stationery,3,227.53,20.0,546.07,Debit Card
+ORD00747,2025-02-08,CUST0040,23,Female,Mumbai,P012,Novel,Books,3,488.62,0.0,1465.86,Debit Card
+ORD00748,2025-12-07,CUST0039,57,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,3,2099.54,0.0,6298.62,Credit Card
+ORD00749,2025-02-27,CUST0127,29,Male,Chennai,P006,Backpack,Fashion,3,1281.36,0.0,3844.08,Cash on Delivery
+ORD00750,2025-09-19,CUST0287,32,Female,Chennai,P007,Water Bottle,Home & Kitchen,1,400.75,0.0,400.75,UPI
+ORD00751,2025-01-20,CUST0188,31,Male,Warangal,P003,Smart Watch,Electronics,4,3246.65,5.0,12337.27,Net Banking
+ORD00752,2025-01-20,CUST0196,55,Male,Pune,P005,Running Shoes,Fashion,1,1876.6,0.0,1876.6,Debit Card
+ORD00753,2025-01-27,CUST0003,26,Other,Hyderabad,P005,Running Shoes,Fashion,1,1792.71,5.0,1703.07,UPI
+ORD00754,2025-07-18,CUST0298,42,Male,Hyderabad,P006,Backpack,Fashion,4,1423.61,0.0,5694.44,Debit Card
+ORD00755,2025-03-28,CUST0253,49,Female,Mumbai,P004,Cotton T-Shirt,Fashion,1,540.79,0.0,540.79,Net Banking
+ORD00756,2025-08-24,CUST0136,48,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,2,841.53,0.0,1683.06,Cash on Delivery
+ORD00757,2025-03-29,CUST0284,52,Male,Delhi,P011,Pen Pack,Stationery,2,150.14,0.0,300.28,UPI
+ORD00758,2025-03-30,CUST0149,28,Female,Vijayawada,P010,Notebook Set,Stationery,1,232.15,0.0,232.15,Cash on Delivery
+ORD00759,2025-12-06,CUST0299,25,Female,Pune,P003,Smart Watch,Electronics,1,3179.19,5.0,3020.23,Credit Card
+ORD00760,2025-12-18,CUST0165,50,Male,Pune,P008,Coffee Maker,Home & Kitchen,2,2772.56,10.0,4990.61,UPI
+ORD00761,2025-03-12,CUST0269,50,Male,Mumbai,P003,Smart Watch,Electronics,4,3369.45,15.0,11456.13,Cash on Delivery
+ORD00762,2025-09-12,CUST0239,44,Female,Chennai,P004,Cotton T-Shirt,Fashion,4,617.21,5.0,2345.4,Cash on Delivery
+ORD00763,2025-07-06,CUST0195,36,Female,Hyderabad,P011,Pen Pack,Stationery,2,144.68,10.0,260.42,Credit Card
+ORD00764,2025-08-28,CUST0164,26,Female,Delhi,P010,Notebook Set,Stationery,1,243.66,15.0,207.11,Credit Card
+ORD00765,2025-10-27,CUST0160,28,Female,Bengaluru,P005,Running Shoes,Fashion,1,1877.12,10.0,1689.41,Cash on Delivery
+ORD00766,2025-07-10,CUST0041,60,Male,Pune,P009,Desk Lamp,Home & Kitchen,4,895.5,0.0,3582.0,Credit Card
+ORD00767,2025-05-14,CUST0103,58,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,2,625.06,20.0,1000.1,UPI
+ORD00768,2025-08-27,CUST0201,18,Female,Bengaluru,P003,Smart Watch,Electronics,3,3463.03,15.0,8830.73,Net Banking
+ORD00769,2025-12-14,CUST0056,23,Male,Chennai,P004,Cotton T-Shirt,Fashion,2,586.43,15.0,996.93,Debit Card
+ORD00770,2025-06-13,CUST0291,43,Female,Chennai,P009,Desk Lamp,Home & Kitchen,3,838.15,0.0,2514.45,Debit Card
+ORD00771,2025-04-13,CUST0041,60,Male,Pune,P010,Notebook Set,Stationery,3,258.72,15.0,659.74,Net Banking
+ORD00772,2025-08-08,CUST0055,21,Female,Hyderabad,P010,Notebook Set,Stationery,2,256.33,0.0,512.66,Debit Card
+ORD00773,2025-05-29,CUST0030,19,Male,Warangal,P001,Wireless Earbuds,Electronics,4,1543.73,5.0,5866.17,UPI
+ORD00774,2025-05-03,CUST0047,39,Male,Chennai,P012,Novel,Books,2,485.97,10.0,874.75,Credit Card
+ORD00775,2025-07-17,CUST0033,42,Female,Pune,P004,Cotton T-Shirt,Fashion,2,649.7,5.0,1234.43,UPI
+ORD00776,2025-06-24,CUST0186,53,Male,Delhi,P002,Bluetooth Speaker,Electronics,1,2057.44,10.0,1851.7,UPI
+ORD00777,2025-03-10,CUST0173,37,Female,Delhi,P011,Pen Pack,Stationery,2,140.63,0.0,281.26,Credit Card
+ORD00778,2025-07-07,CUST0178,38,Female,Chennai,P002,Bluetooth Speaker,Electronics,3,2281.13,0.0,6843.39,Net Banking
+ORD00779,2025-07-24,CUST0177,23,Female,Mumbai,P008,Coffee Maker,Home & Kitchen,2,2690.31,15.0,4573.53,Cash on Delivery
+ORD00780,2025-08-04,CUST0029,41,Female,Chennai,P012,Novel,Books,3,521.74,5.0,1486.96,Net Banking
+ORD00781,2025-10-30,CUST0095,49,Male,Pune,P004,Cotton T-Shirt,Fashion,3,631.44,5.0,1799.6,Credit Card
+ORD00782,2025-05-10,CUST0231,55,Male,Mumbai,P004,Cotton T-Shirt,Fashion,2,609.72,0.0,1219.44,Net Banking
+ORD00783,2025-12-14,CUST0157,43,Male,Warangal,P006,Backpack,Fashion,3,1376.48,15.0,3510.02,Debit Card
+ORD00784,2025-01-15,CUST0116,49,Male,Warangal,P006,Backpack,Fashion,4,1208.74,5.0,4593.21,Debit Card
+ORD00785,2025-11-28,CUST0169,45,Female,Hyderabad,P010,Notebook Set,Stationery,3,260.51,10.0,703.38,UPI
+ORD00786,2025-05-06,CUST0129,54,Male,Delhi,P002,Bluetooth Speaker,Electronics,3,2203.09,5.0,6278.81,UPI
+ORD00787,2025-09-16,CUST0024,54,Male,Chennai,P011,Pen Pack,Stationery,4,157.81,0.0,631.24,UPI
+ORD00788,2025-07-06,CUST0159,36,Female,Chennai,P010,Notebook Set,Stationery,1,243.17,0.0,243.17,Debit Card
+ORD00789,2025-09-09,CUST0018,21,Male,Chennai,P001,Wireless Earbuds,Electronics,1,1479.54,0.0,1479.54,Net Banking
+ORD00790,2025-06-22,CUST0075,54,Male,Chennai,P006,Backpack,Fashion,3,1282.9,5.0,3656.26,Debit Card
+ORD00791,2025-11-28,CUST0017,35,Male,Bengaluru,P001,Wireless Earbuds,Electronics,2,1370.41,5.0,2603.78,Credit Card
+ORD00792,2025-07-12,CUST0063,51,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,3,2675.97,0.0,8027.91,Net Banking
+ORD00793,2025-04-01,CUST0050,32,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2529.96,0.0,2529.96,Credit Card
+ORD00794,2025-03-15,CUST0161,46,Male,Vijayawada,P008,Coffee Maker,Home & Kitchen,2,3057.64,20.0,4892.22,Cash on Delivery
+ORD00795,2025-10-16,CUST0076,33,Female,Delhi,P004,Cotton T-Shirt,Fashion,3,605.66,10.0,1635.28,Debit Card
+ORD00796,2025-03-08,CUST0296,44,Male,Vijayawada,P012,Novel,Books,3,538.8,0.0,1616.4,Cash on Delivery
+ORD00797,2025-06-26,CUST0265,37,Male,Delhi,P009,Desk Lamp,Home & Kitchen,2,974.3,15.0,1656.31,Cash on Delivery
+ORD00798,2025-12-12,CUST0032,54,Female,Mumbai,P011,Pen Pack,Stationery,1,136.17,0.0,136.17,Debit Card
+ORD00799,2025-07-21,CUST0124,50,Male,Mumbai,P009,Desk Lamp,Home & Kitchen,4,959.39,0.0,3837.56,Net Banking
+ORD00800,2025-09-03,CUST0156,36,Male,Chennai,P012,Novel,Books,1,537.38,0.0,537.38,UPI
+ORD00801,2025-10-22,CUST0205,19,Other,Hyderabad,P003,Smart Watch,Electronics,1,3223.15,10.0,2900.84,UPI
+ORD00802,2025-09-06,CUST0224,40,Female,Vijayawada,P011,Pen Pack,Stationery,4,139.76,0.0,559.04,UPI
+ORD00803,2025-09-13,CUST0224,40,Female,Vijayawada,P003,Smart Watch,Electronics,4,3398.71,0.0,13594.84,Credit Card
+ORD00804,2025-01-31,CUST0035,43,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,3,373.9,0.0,1121.7,Cash on Delivery
+ORD00805,2025-09-07,CUST0058,41,Female,Warangal,P012,Novel,Books,2,467.24,0.0,934.48,Cash on Delivery
+ORD00806,2025-07-26,CUST0101,60,Other,Delhi,P006,Backpack,Fashion,1,1225.84,10.0,1103.26,Net Banking
+ORD00807,2025-07-23,CUST0267,50,Female,Chennai,P003,Smart Watch,Electronics,4,3328.1,20.0,10649.92,Cash on Delivery
+ORD00808,2025-09-16,CUST0010,54,Female,Delhi,P006,Backpack,Fashion,3,1369.92,0.0,4109.76,UPI
+ORD00809,2025-11-13,CUST0146,22,Male,Delhi,P005,Running Shoes,Fashion,4,1913.05,10.0,6886.98,Cash on Delivery
+ORD00810,2025-06-18,CUST0235,24,Female,Warangal,P012,Novel,Books,4,496.63,10.0,1787.87,Debit Card
+ORD00811,2025-11-08,CUST0127,29,Male,Chennai,P004,Cotton T-Shirt,Fashion,2,541.59,0.0,1083.18,Cash on Delivery
+ORD00812,2025-02-25,CUST0241,24,Male,Chennai,P004,Cotton T-Shirt,Fashion,2,557.05,5.0,1058.4,UPI
+ORD00813,2025-01-26,CUST0005,40,Male,Warangal,P011,Pen Pack,Stationery,3,135.01,5.0,384.78,Debit Card
+ORD00814,2025-09-24,CUST0287,32,Female,Chennai,P012,Novel,Books,2,544.83,0.0,1089.66,Net Banking
+ORD00815,2025-09-08,CUST0154,51,Female,Chennai,P010,Notebook Set,Stationery,4,249.59,0.0,998.36,Debit Card
+ORD00816,2025-07-05,CUST0245,22,Female,Mumbai,P007,Water Bottle,Home & Kitchen,4,419.5,5.0,1594.1,Net Banking
+ORD00817,2025-11-11,CUST0039,57,Female,Bengaluru,P010,Notebook Set,Stationery,3,234.64,0.0,703.92,Debit Card
+ORD00818,2025-08-03,CUST0122,37,Female,Warangal,P012,Novel,Books,4,477.95,0.0,1911.8,Cash on Delivery
+ORD00819,2025-08-13,CUST0294,34,Male,Warangal,P005,Running Shoes,Fashion,1,1758.38,15.0,1494.62,Net Banking
+ORD00820,2025-07-31,CUST0047,39,Male,Chennai,P011,Pen Pack,Stationery,4,140.55,10.0,505.98,Net Banking
+ORD00821,2025-01-24,CUST0060,46,Female,Chennai,P002,Bluetooth Speaker,Electronics,2,2012.05,5.0,3822.89,Debit Card
+ORD00822,2025-03-05,CUST0243,57,Male,Hyderabad,P005,Running Shoes,Fashion,2,1878.05,5.0,3568.29,Debit Card
+ORD00823,2025-06-22,CUST0090,24,Female,Vijayawada,P009,Desk Lamp,Home & Kitchen,4,937.45,20.0,2999.84,Credit Card
+ORD00824,2025-05-23,CUST0106,57,Female,Pune,P009,Desk Lamp,Home & Kitchen,1,831.69,0.0,831.69,Debit Card
+ORD00825,2025-08-18,CUST0232,28,Male,Vijayawada,P012,Novel,Books,1,501.03,10.0,450.93,Credit Card
+ORD00826,2025-06-12,CUST0078,31,Female,Hyderabad,P010,Notebook Set,Stationery,4,224.25,20.0,717.6,Cash on Delivery
+ORD00827,2025-11-08,CUST0245,22,Female,Mumbai,P010,Notebook Set,Stationery,1,243.87,15.0,207.29,Net Banking
+ORD00828,2025-10-26,CUST0166,25,Male,Pune,P001,Wireless Earbuds,Electronics,3,1366.76,5.0,3895.27,Credit Card
+ORD00829,2025-09-28,CUST0097,19,Female,Hyderabad,P001,Wireless Earbuds,Electronics,1,1600.95,20.0,1280.76,Net Banking
+ORD00830,2025-11-16,CUST0031,36,Male,Pune,P008,Coffee Maker,Home & Kitchen,4,2556.95,15.0,8693.63,Debit Card
+ORD00831,2025-01-07,CUST0204,47,Female,Bengaluru,P001,Wireless Earbuds,Electronics,2,1356.58,5.0,2577.5,Debit Card
+ORD00832,2025-09-07,CUST0244,38,Male,Chennai,P011,Pen Pack,Stationery,1,137.81,0.0,137.81,Debit Card
+ORD00833,2025-12-13,CUST0162,51,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,2,946.83,15.0,1609.61,Cash on Delivery
+ORD00834,2025-12-31,CUST0156,36,Male,Chennai,P006,Backpack,Fashion,4,1216.62,10.0,4379.83,UPI
+ORD00835,2025-11-22,CUST0176,40,Male,Mumbai,P001,Wireless Earbuds,Electronics,2,1556.43,20.0,2490.29,Debit Card
+ORD00836,2025-09-17,CUST0095,49,Male,Pune,P009,Desk Lamp,Home & Kitchen,2,942.46,5.0,1790.67,Credit Card
+ORD00837,2025-12-24,CUST0280,60,Female,Mumbai,P008,Coffee Maker,Home & Kitchen,4,2935.98,0.0,11743.92,Credit Card
+ORD00838,2025-09-19,CUST0143,45,Male,Mumbai,P010,Notebook Set,Stationery,3,231.4,0.0,694.2,Debit Card
+ORD00839,2025-07-06,CUST0264,39,Other,Vijayawada,P002,Bluetooth Speaker,Electronics,2,2051.95,5.0,3898.71,Credit Card
+ORD00840,2025-09-22,CUST0051,33,Female,Vijayawada,P006,Backpack,Fashion,3,1219.82,0.0,3659.46,Net Banking
+ORD00841,2025-04-27,CUST0288,47,Female,Delhi,P007,Water Bottle,Home & Kitchen,4,377.06,5.0,1432.83,UPI
+ORD00842,2025-07-07,CUST0253,49,Female,Mumbai,P007,Water Bottle,Home & Kitchen,4,383.3,10.0,1379.88,UPI
+ORD00843,2025-03-15,CUST0045,48,Female,Warangal,P007,Water Bottle,Home & Kitchen,3,419.77,5.0,1196.34,Credit Card
+ORD00844,2025-08-12,CUST0197,38,Female,Mumbai,P001,Wireless Earbuds,Electronics,2,1480.74,10.0,2665.33,UPI
+ORD00845,2025-10-12,CUST0101,60,Other,Delhi,P002,Bluetooth Speaker,Electronics,4,2330.06,10.0,8388.22,Debit Card
+ORD00846,2025-11-27,CUST0006,39,Female,Bengaluru,P008,Coffee Maker,Home & Kitchen,2,2781.28,15.0,4728.18,Debit Card
+ORD00847,2025-11-16,CUST0143,45,Male,Mumbai,P005,Running Shoes,Fashion,2,1771.17,0.0,3542.34,Cash on Delivery
+ORD00848,2025-08-18,CUST0016,57,Female,Pune,P009,Desk Lamp,Home & Kitchen,3,836.19,10.0,2257.71,Credit Card
+ORD00849,2025-01-06,CUST0287,32,Female,Chennai,P007,Water Bottle,Home & Kitchen,4,359.28,5.0,1365.26,Credit Card
+ORD00850,2025-03-29,CUST0092,22,Male,Mumbai,P008,Coffee Maker,Home & Kitchen,1,2862.59,5.0,2719.46,Credit Card
+ORD00851,2025-03-10,CUST0077,41,Female,Warangal,P005,Running Shoes,Fashion,3,1761.55,0.0,5284.65,Credit Card
+ORD00852,2025-10-20,CUST0009,21,Male,Mumbai,P012,Novel,Books,2,539.12,0.0,1078.24,Net Banking
+ORD00853,2025-07-27,CUST0224,40,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,1,425.23,0.0,425.23,Credit Card
+ORD00854,2025-04-11,CUST0089,30,Other,Chennai,P005,Running Shoes,Fashion,2,1724.62,15.0,2931.85,Credit Card
+ORD00855,2025-02-10,CUST0203,34,Female,Vijayawada,P011,Pen Pack,Stationery,3,147.75,0.0,443.25,Debit Card
+ORD00856,2025-02-17,CUST0147,35,Male,Vijayawada,P004,Cotton T-Shirt,Fashion,3,541.53,20.0,1299.67,Net Banking
+ORD00857,2025-08-30,CUST0182,51,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,4,2814.66,0.0,11258.64,Cash on Delivery
+ORD00858,2025-09-15,CUST0045,48,Female,Warangal,P009,Desk Lamp,Home & Kitchen,3,817.18,0.0,2451.54,Net Banking
+ORD00859,2025-04-30,CUST0197,38,Female,Mumbai,P005,Running Shoes,Fashion,2,2077.26,0.0,4154.52,Net Banking
+ORD00860,2025-12-31,CUST0046,58,Female,Warangal,P008,Coffee Maker,Home & Kitchen,1,2887.74,0.0,2887.74,Net Banking
+ORD00861,2025-04-12,CUST0029,41,Female,Chennai,P011,Pen Pack,Stationery,4,153.41,0.0,613.64,Net Banking
+ORD00862,2025-11-25,CUST0149,28,Female,Vijayawada,P002,Bluetooth Speaker,Electronics,3,2214.97,15.0,5648.17,Credit Card
+ORD00863,2025-06-17,CUST0128,29,Female,Warangal,P012,Novel,Books,2,512.56,10.0,922.61,Cash on Delivery
+ORD00864,2025-04-30,CUST0073,41,Male,Chennai,P005,Running Shoes,Fashion,4,1815.52,0.0,7262.08,Cash on Delivery
+ORD00865,2025-07-14,CUST0230,41,Female,Delhi,P004,Cotton T-Shirt,Fashion,4,601.99,15.0,2046.77,Credit Card
+ORD00866,2025-01-06,CUST0299,25,Female,Pune,P009,Desk Lamp,Home & Kitchen,1,857.9,5.0,815.0,Credit Card
+ORD00867,2025-11-09,CUST0008,41,Male,Chennai,P006,Backpack,Fashion,1,1369.29,0.0,1369.29,Cash on Delivery
+ORD00868,2025-01-03,CUST0137,53,Female,Hyderabad,P010,Notebook Set,Stationery,3,247.03,0.0,741.09,UPI
+ORD00869,2025-03-10,CUST0239,44,Female,Chennai,P005,Running Shoes,Fashion,4,1996.35,0.0,7985.4,Cash on Delivery
+ORD00870,2025-12-22,CUST0177,23,Female,Mumbai,P010,Notebook Set,Stationery,3,267.8,0.0,803.4,UPI
+ORD00871,2025-06-07,CUST0069,24,Male,Vijayawada,P004,Cotton T-Shirt,Fashion,3,574.87,10.0,1552.15,Net Banking
+ORD00872,2025-12-16,CUST0074,59,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,1,883.5,15.0,750.97,Cash on Delivery
+ORD00873,2025-07-23,CUST0124,50,Male,Mumbai,P009,Desk Lamp,Home & Kitchen,1,939.31,10.0,845.38,Net Banking
+ORD00874,2025-08-22,CUST0071,29,Female,Chennai,P012,Novel,Books,3,526.01,10.0,1420.23,Credit Card
+ORD00875,2025-07-03,CUST0258,42,Male,Bengaluru,P006,Backpack,Fashion,3,1192.5,10.0,3219.75,Debit Card
+ORD00876,2025-12-03,CUST0260,56,Female,Hyderabad,P009,Desk Lamp,Home & Kitchen,1,874.93,0.0,874.93,UPI
+ORD00877,2025-06-30,CUST0125,23,Male,Bengaluru,P012,Novel,Books,3,484.58,0.0,1453.74,Cash on Delivery
+ORD00878,2025-06-18,CUST0295,31,Male,Warangal,P003,Smart Watch,Electronics,2,3656.95,0.0,7313.9,Credit Card
+ORD00879,2025-01-01,CUST0143,45,Male,Mumbai,P009,Desk Lamp,Home & Kitchen,1,930.6,0.0,930.6,UPI
+ORD00880,2025-05-25,CUST0224,40,Female,Vijayawada,P011,Pen Pack,Stationery,4,155.68,10.0,560.45,UPI
+ORD00881,2025-03-30,CUST0195,36,Female,Hyderabad,P012,Novel,Books,4,476.47,15.0,1620.0,UPI
+ORD00882,2025-03-19,CUST0049,44,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,3,419.35,5.0,1195.15,UPI
+ORD00883,2025-04-21,CUST0277,31,Female,Warangal,P007,Water Bottle,Home & Kitchen,3,429.03,0.0,1287.09,Cash on Delivery
+ORD00884,2025-04-23,CUST0110,42,Male,Vijayawada,P006,Backpack,Fashion,4,1218.63,0.0,4874.52,Net Banking
+ORD00885,2025-01-28,CUST0251,52,Female,Pune,P006,Backpack,Fashion,3,1345.22,10.0,3632.09,Net Banking
+ORD00886,2025-07-17,CUST0255,34,Male,Chennai,P009,Desk Lamp,Home & Kitchen,4,929.93,5.0,3533.73,Cash on Delivery
+ORD00887,2025-08-23,CUST0128,29,Female,Warangal,P011,Pen Pack,Stationery,1,160.43,0.0,160.43,Net Banking
+ORD00888,2025-05-28,CUST0150,42,Female,Delhi,P012,Novel,Books,3,469.33,20.0,1126.39,Credit Card
+ORD00889,2025-03-08,CUST0261,48,Male,Delhi,P006,Backpack,Fashion,1,1255.21,0.0,1255.21,Debit Card
+ORD00890,2025-05-14,CUST0187,52,Male,Bengaluru,P005,Running Shoes,Fashion,4,2083.81,10.0,7501.72,Cash on Delivery
+ORD00891,2025-11-09,CUST0224,40,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,4,565.19,0.0,2260.76,UPI
+ORD00892,2025-01-27,CUST0292,40,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,4,2112.64,5.0,8028.03,Cash on Delivery
+ORD00893,2025-04-15,CUST0243,57,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,3,555.4,5.0,1582.89,Debit Card
+ORD00894,2025-08-25,CUST0134,24,Male,Bengaluru,P008,Coffee Maker,Home & Kitchen,3,2639.66,10.0,7127.08,Net Banking
+ORD00895,2025-02-09,CUST0277,31,Female,Warangal,P011,Pen Pack,Stationery,3,152.66,15.0,389.28,Net Banking
+ORD00896,2025-05-14,CUST0100,19,Male,Warangal,P006,Backpack,Fashion,1,1237.95,0.0,1237.95,Credit Card
+ORD00897,2025-04-10,CUST0188,31,Male,Warangal,P004,Cotton T-Shirt,Fashion,3,616.79,0.0,1850.37,Net Banking
+ORD00898,2025-12-24,CUST0103,58,Male,Hyderabad,P001,Wireless Earbuds,Electronics,3,1401.82,0.0,4205.46,Credit Card
+ORD00899,2025-06-22,CUST0038,53,Male,Hyderabad,P001,Wireless Earbuds,Electronics,1,1360.78,0.0,1360.78,Debit Card
+ORD00900,2025-10-02,CUST0299,25,Female,Pune,P009,Desk Lamp,Home & Kitchen,4,847.77,5.0,3221.53,Credit Card
+ORD00901,2025-10-20,CUST0061,24,Female,Mumbai,P011,Pen Pack,Stationery,3,137.86,0.0,413.58,Cash on Delivery
+ORD00902,2025-02-10,CUST0126,22,Female,Pune,P010,Notebook Set,Stationery,4,268.03,5.0,1018.51,UPI
+ORD00903,2025-09-08,CUST0136,48,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,2,2382.15,5.0,4526.08,UPI
+ORD00904,2025-08-23,CUST0025,28,Male,Pune,P006,Backpack,Fashion,3,1275.23,0.0,3825.69,Net Banking
+ORD00905,2025-04-10,CUST0118,25,Female,Vijayawada,P011,Pen Pack,Stationery,3,138.79,0.0,416.37,Net Banking
+ORD00906,2025-09-05,CUST0011,25,Male,Delhi,P011,Pen Pack,Stationery,2,153.77,0.0,307.54,UPI
+ORD00907,2025-01-29,CUST0123,50,Female,Mumbai,P002,Bluetooth Speaker,Electronics,3,2363.76,20.0,5673.02,Net Banking
+ORD00908,2025-10-10,CUST0014,33,Male,Chennai,P005,Running Shoes,Fashion,4,1989.07,0.0,7956.28,Net Banking
+ORD00909,2025-06-15,CUST0008,41,Male,Chennai,P004,Cotton T-Shirt,Fashion,2,641.72,10.0,1155.1,UPI
+ORD00910,2025-10-18,CUST0142,56,Male,Warangal,P009,Desk Lamp,Home & Kitchen,1,939.82,0.0,939.82,Net Banking
+ORD00911,2025-05-27,CUST0115,24,Male,Pune,P009,Desk Lamp,Home & Kitchen,2,895.13,5.0,1700.75,Net Banking
+ORD00912,2025-10-06,CUST0233,35,Female,Mumbai,P006,Backpack,Fashion,4,1284.55,0.0,5138.2,Credit Card
+ORD00913,2025-04-19,CUST0078,31,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,4,2017.12,0.0,8068.48,Debit Card
+ORD00914,2025-06-18,CUST0051,33,Female,Vijayawada,P001,Wireless Earbuds,Electronics,2,1587.01,10.0,2856.62,Credit Card
+ORD00915,2025-07-26,CUST0131,33,Female,Warangal,P011,Pen Pack,Stationery,2,139.88,0.0,279.76,Debit Card
+ORD00916,2025-06-02,CUST0178,38,Female,Chennai,P001,Wireless Earbuds,Electronics,3,1393.66,5.0,3971.93,Debit Card
+ORD00917,2025-08-12,CUST0224,40,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,4,547.51,0.0,2190.04,Cash on Delivery
+ORD00918,2025-10-10,CUST0242,58,Male,Mumbai,P004,Cotton T-Shirt,Fashion,2,611.6,0.0,1223.2,Debit Card
+ORD00919,2025-05-06,CUST0121,30,Female,Delhi,P011,Pen Pack,Stationery,1,141.15,15.0,119.98,Credit Card
+ORD00920,2025-05-07,CUST0224,40,Female,Vijayawada,P010,Notebook Set,Stationery,3,226.57,10.0,611.74,UPI
+ORD00921,2025-03-24,CUST0177,23,Female,Mumbai,P003,Smart Watch,Electronics,1,3694.34,0.0,3694.34,Debit Card
+ORD00922,2025-08-01,CUST0022,45,Male,Pune,P003,Smart Watch,Electronics,1,3459.24,15.0,2940.35,Cash on Delivery
+ORD00923,2025-03-13,CUST0276,38,Male,Chennai,P002,Bluetooth Speaker,Electronics,4,2212.11,0.0,8848.44,UPI
+ORD00924,2025-06-23,CUST0145,57,Male,Mumbai,P010,Notebook Set,Stationery,4,251.24,20.0,803.97,Debit Card
+ORD00925,2025-12-07,CUST0122,37,Female,Warangal,P001,Wireless Earbuds,Electronics,4,1499.5,5.0,5698.1,Debit Card
+ORD00926,2025-09-04,CUST0277,31,Female,Warangal,P010,Notebook Set,Stationery,3,245.93,10.0,664.01,Credit Card
+ORD00927,2025-03-20,CUST0026,53,Male,Warangal,P007,Water Bottle,Home & Kitchen,3,415.71,10.0,1122.42,Credit Card
+ORD00928,2025-12-13,CUST0120,54,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2769.1,0.0,2769.1,UPI
+ORD00929,2025-01-30,CUST0147,35,Male,Vijayawada,P006,Backpack,Fashion,2,1240.72,10.0,2233.3,Debit Card
+ORD00930,2025-03-22,CUST0093,18,Female,Delhi,P008,Coffee Maker,Home & Kitchen,4,3032.05,20.0,9702.56,Debit Card
+ORD00931,2025-04-27,CUST0286,55,Female,Bengaluru,P011,Pen Pack,Stationery,1,156.44,0.0,156.44,UPI
+ORD00932,2025-10-03,CUST0206,19,Female,Pune,P006,Backpack,Fashion,2,1173.47,20.0,1877.55,Credit Card
+ORD00933,2025-03-08,CUST0151,44,Male,Delhi,P004,Cotton T-Shirt,Fashion,1,561.57,5.0,533.49,Cash on Delivery
+ORD00934,2025-02-27,CUST0253,49,Female,Mumbai,P007,Water Bottle,Home & Kitchen,4,393.96,0.0,1575.84,Credit Card
+ORD00935,2025-10-25,CUST0095,49,Male,Pune,P006,Backpack,Fashion,2,1358.67,0.0,2717.34,Cash on Delivery
+ORD00936,2025-03-07,CUST0179,49,Female,Delhi,P006,Backpack,Fashion,2,1319.53,10.0,2375.15,Debit Card
+ORD00937,2025-12-10,CUST0260,56,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,2,393.26,0.0,786.52,Credit Card
+ORD00938,2025-11-26,CUST0071,29,Female,Chennai,P009,Desk Lamp,Home & Kitchen,3,906.29,10.0,2446.98,Debit Card
+ORD00939,2025-08-31,CUST0135,37,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,2,623.44,0.0,1246.88,Credit Card
+ORD00940,2025-11-04,CUST0121,30,Female,Delhi,P011,Pen Pack,Stationery,1,146.44,15.0,124.47,Cash on Delivery
+ORD00941,2025-04-20,CUST0056,23,Male,Chennai,P008,Coffee Maker,Home & Kitchen,1,2901.05,10.0,2610.94,UPI
+ORD00942,2025-05-27,CUST0100,19,Male,Warangal,P009,Desk Lamp,Home & Kitchen,4,822.35,0.0,3289.4,UPI
+ORD00943,2025-11-17,CUST0247,43,Male,Pune,P002,Bluetooth Speaker,Electronics,1,2166.01,0.0,2166.01,Cash on Delivery
+ORD00944,2025-08-04,CUST0129,54,Male,Delhi,P004,Cotton T-Shirt,Fashion,2,575.22,10.0,1035.4,UPI
+ORD00945,2025-10-11,CUST0129,54,Male,Delhi,P002,Bluetooth Speaker,Electronics,3,2067.8,10.0,5583.06,UPI
+ORD00946,2025-02-17,CUST0242,58,Male,Mumbai,P004,Cotton T-Shirt,Fashion,1,549.49,5.0,522.02,Net Banking
+ORD00947,2025-01-09,CUST0207,44,Female,Hyderabad,P008,Coffee Maker,Home & Kitchen,3,2675.12,5.0,7624.09,UPI
+ORD00948,2025-11-10,CUST0266,51,Female,Pune,P004,Cotton T-Shirt,Fashion,2,631.97,0.0,1263.94,Cash on Delivery
+ORD00949,2025-03-28,CUST0180,40,Female,Chennai,P004,Cotton T-Shirt,Fashion,2,592.11,10.0,1065.8,Credit Card
+ORD00950,2025-03-30,CUST0131,33,Female,Warangal,P007,Water Bottle,Home & Kitchen,1,414.63,5.0,393.9,Debit Card
+ORD00951,2025-03-22,CUST0088,25,Male,Warangal,P007,Water Bottle,Home & Kitchen,4,413.4,0.0,1653.6,Net Banking
+ORD00952,2025-10-05,CUST0110,42,Male,Vijayawada,P008,Coffee Maker,Home & Kitchen,1,2853.21,0.0,2853.21,Cash on Delivery
+ORD00953,2025-11-05,CUST0211,30,Male,Pune,P011,Pen Pack,Stationery,1,137.35,10.0,123.62,Net Banking
+ORD00954,2025-12-28,CUST0119,36,Female,Chennai,P008,Coffee Maker,Home & Kitchen,4,2645.07,0.0,10580.28,Credit Card
+ORD00955,2025-09-10,CUST0157,43,Male,Warangal,P004,Cotton T-Shirt,Fashion,3,596.71,0.0,1790.13,Net Banking
+ORD00956,2025-09-17,CUST0152,53,Female,Mumbai,P008,Coffee Maker,Home & Kitchen,4,2962.68,0.0,11850.72,Debit Card
+ORD00957,2025-11-17,CUST0268,32,Male,Hyderabad,P003,Smart Watch,Electronics,4,3646.07,5.0,13855.07,Credit Card
+ORD00958,2025-06-16,CUST0264,39,Other,Vijayawada,P007,Water Bottle,Home & Kitchen,1,413.56,0.0,413.56,Credit Card
+ORD00959,2025-05-22,CUST0066,52,Female,Warangal,P006,Backpack,Fashion,1,1413.62,0.0,1413.62,UPI
+ORD00960,2025-08-03,CUST0245,22,Female,Mumbai,P005,Running Shoes,Fashion,3,1962.78,0.0,5888.34,Net Banking
+ORD00961,2025-02-28,CUST0297,36,Female,Bengaluru,P005,Running Shoes,Fashion,3,1813.83,15.0,4625.27,Cash on Delivery
+ORD00962,2025-08-28,CUST0143,45,Male,Mumbai,P003,Smart Watch,Electronics,2,3300.34,10.0,5940.61,Debit Card
+ORD00963,2025-10-04,CUST0109,53,Male,Warangal,P004,Cotton T-Shirt,Fashion,3,614.55,10.0,1659.28,Credit Card
+ORD00964,2025-10-12,CUST0076,33,Female,Delhi,P006,Backpack,Fashion,3,1209.04,10.0,3264.41,Credit Card
+ORD00965,2025-03-10,CUST0295,31,Male,Warangal,P008,Coffee Maker,Home & Kitchen,3,2999.6,0.0,8998.8,Credit Card
+ORD00966,2025-07-22,CUST0179,49,Female,Delhi,P008,Coffee Maker,Home & Kitchen,4,2816.64,5.0,10703.23,Net Banking
+ORD00967,2025-08-28,CUST0143,45,Male,Mumbai,P010,Notebook Set,Stationery,4,258.52,0.0,1034.08,Credit Card
+ORD00968,2025-08-17,CUST0223,18,Female,Bengaluru,P008,Coffee Maker,Home & Kitchen,1,3068.06,0.0,3068.06,Credit Card
+ORD00969,2025-03-30,CUST0130,55,Female,Hyderabad,P011,Pen Pack,Stationery,3,144.85,10.0,391.1,Credit Card
+ORD00970,2025-07-28,CUST0048,28,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,1,896.55,0.0,896.55,Credit Card
+ORD00971,2025-05-16,CUST0103,58,Male,Hyderabad,P001,Wireless Earbuds,Electronics,1,1444.51,0.0,1444.51,Cash on Delivery
+ORD00972,2025-03-03,CUST0187,52,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,3,364.75,15.0,930.11,Credit Card
+ORD00973,2025-05-31,CUST0276,38,Male,Chennai,P007,Water Bottle,Home & Kitchen,2,396.22,0.0,792.44,Cash on Delivery
+ORD00974,2025-10-08,CUST0244,38,Male,Chennai,P004,Cotton T-Shirt,Fashion,4,648.2,0.0,2592.8,Credit Card
+ORD00975,2025-04-23,CUST0240,35,Male,Pune,P002,Bluetooth Speaker,Electronics,1,2125.47,10.0,1912.92,Debit Card
+ORD00976,2025-06-15,CUST0057,49,Female,Bengaluru,P003,Smart Watch,Electronics,4,3221.25,15.0,10952.25,UPI
+ORD00977,2025-05-10,CUST0081,31,Female,Hyderabad,P009,Desk Lamp,Home & Kitchen,2,916.17,0.0,1832.34,Net Banking
+ORD00978,2025-07-26,CUST0051,33,Female,Vijayawada,P012,Novel,Books,2,484.35,0.0,968.7,Cash on Delivery
+ORD00979,2025-10-07,CUST0157,43,Male,Warangal,P008,Coffee Maker,Home & Kitchen,2,2612.38,0.0,5224.76,Cash on Delivery
+ORD00980,2025-11-03,CUST0132,31,Male,Bengaluru,P008,Coffee Maker,Home & Kitchen,4,2883.41,0.0,11533.64,Cash on Delivery
+ORD00981,2025-07-14,CUST0061,24,Female,Mumbai,P003,Smart Watch,Electronics,3,3292.12,10.0,8888.72,Cash on Delivery
+ORD00982,2025-10-14,CUST0060,46,Female,Chennai,P001,Wireless Earbuds,Electronics,2,1500.96,10.0,2701.73,Debit Card
+ORD00983,2025-12-02,CUST0288,47,Female,Delhi,P006,Backpack,Fashion,3,1387.31,15.0,3537.64,Debit Card
+ORD00984,2025-10-15,CUST0189,21,Male,Vijayawada,P004,Cotton T-Shirt,Fashion,3,612.08,0.0,1836.24,Debit Card
+ORD00985,2025-01-10,CUST0220,41,Female,Pune,P008,Coffee Maker,Home & Kitchen,3,2523.27,15.0,6434.34,UPI
+ORD00986,2025-03-28,CUST0014,33,Male,Chennai,P010,Notebook Set,Stationery,3,254.73,15.0,649.56,UPI
+ORD00987,2025-11-19,CUST0231,55,Male,Mumbai,P003,Smart Watch,Electronics,3,3683.04,0.0,11049.12,Credit Card
+ORD00988,2025-06-03,CUST0046,58,Female,Warangal,P003,Smart Watch,Electronics,2,3427.59,20.0,5484.14,Credit Card
+ORD00989,2025-10-31,CUST0180,40,Female,Chennai,P003,Smart Watch,Electronics,4,3260.45,20.0,10433.44,Net Banking
+ORD00990,2025-10-09,CUST0068,44,Male,Mumbai,P011,Pen Pack,Stationery,2,150.75,15.0,256.27,UPI
+ORD00991,2025-07-20,CUST0165,50,Male,Pune,P004,Cotton T-Shirt,Fashion,1,604.95,10.0,544.46,Debit Card
+ORD00992,2025-11-27,CUST0017,35,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,1,371.96,0.0,371.96,Credit Card
+ORD00993,2025-07-07,CUST0064,26,Male,Bengaluru,P012,Novel,Books,2,511.33,0.0,1022.66,Credit Card
+ORD00994,2025-05-31,CUST0083,24,Male,Mumbai,P003,Smart Watch,Electronics,3,3355.07,5.0,9561.95,Credit Card
+ORD00995,2025-12-26,CUST0283,41,Female,Pune,P007,Water Bottle,Home & Kitchen,3,376.92,5.0,1074.22,Debit Card
+ORD00996,2025-11-04,CUST0045,48,Female,Warangal,P002,Bluetooth Speaker,Electronics,2,2294.57,5.0,4359.68,UPI
+ORD00997,2025-01-19,CUST0131,33,Female,Warangal,P006,Backpack,Fashion,2,1411.51,0.0,2823.02,Debit Card
+ORD00998,2025-10-31,CUST0236,47,Male,Chennai,P012,Novel,Books,2,542.65,0.0,1085.3,Credit Card
+ORD00999,2025-05-06,CUST0006,39,Female,Bengaluru,P010,Notebook Set,Stationery,4,242.24,20.0,775.17,UPI
+ORD01000,2025-08-10,CUST0167,43,Female,Pune,P001,Wireless Earbuds,Electronics,3,1542.01,15.0,3932.13,Net Banking
+ORD01001,2025-04-18,CUST0070,38,Male,Delhi,P007,Water Bottle,Home & Kitchen,4,360.92,10.0,1299.31,Cash on Delivery
+ORD01002,2025-10-28,CUST0248,28,Female,Delhi,P003,Smart Watch,Electronics,2,3264.36,5.0,6202.28,Credit Card
+ORD01003,2025-03-04,CUST0206,19,Female,Pune,P011,Pen Pack,Stationery,2,152.34,10.0,274.21,Credit Card
+ORD01004,2025-03-07,CUST0281,18,Male,Hyderabad,P001,Wireless Earbuds,Electronics,1,1626.83,10.0,1464.15,Cash on Delivery
+ORD01005,2025-07-04,CUST0285,49,Female,Bengaluru,P001,Wireless Earbuds,Electronics,2,1535.76,0.0,3071.52,UPI
+ORD01006,2025-08-01,CUST0130,55,Female,Hyderabad,P004,Cotton T-Shirt,Fashion,3,605.3,0.0,1815.9,UPI
+ORD01007,2025-12-01,CUST0038,53,Male,Hyderabad,P003,Smart Watch,Electronics,4,3832.51,0.0,15330.04,Net Banking
+ORD01008,2025-05-12,CUST0053,29,Female,Delhi,P008,Coffee Maker,Home & Kitchen,1,2786.55,5.0,2647.22,Net Banking
+ORD01009,2025-01-15,CUST0158,39,Male,Bengaluru,P001,Wireless Earbuds,Electronics,1,1417.27,15.0,1204.68,Cash on Delivery
+ORD01010,2025-09-29,CUST0187,52,Male,Bengaluru,P001,Wireless Earbuds,Electronics,3,1444.73,0.0,4334.19,Net Banking
+ORD01011,2025-11-24,CUST0097,19,Female,Hyderabad,P011,Pen Pack,Stationery,1,148.5,15.0,126.23,Cash on Delivery
+ORD01012,2025-12-25,CUST0084,31,Female,Delhi,P001,Wireless Earbuds,Electronics,3,1375.47,0.0,4126.41,Debit Card
+ORD01013,2025-01-02,CUST0031,36,Male,Pune,P001,Wireless Earbuds,Electronics,2,1446.46,5.0,2748.27,Credit Card
+ORD01014,2025-06-27,CUST0137,53,Female,Hyderabad,P001,Wireless Earbuds,Electronics,2,1646.26,0.0,3292.52,Net Banking
+ORD01015,2025-08-25,CUST0261,48,Male,Delhi,P005,Running Shoes,Fashion,3,1987.68,0.0,5963.04,Credit Card
+ORD01016,2025-08-22,CUST0224,40,Female,Vijayawada,P003,Smart Watch,Electronics,1,3381.3,10.0,3043.17,Cash on Delivery
+ORD01017,2025-01-18,CUST0213,53,Female,Mumbai,P011,Pen Pack,Stationery,4,139.3,0.0,557.2,Credit Card
+ORD01018,2025-12-21,CUST0058,41,Female,Warangal,P008,Coffee Maker,Home & Kitchen,1,2801.36,10.0,2521.22,Debit Card
+ORD01019,2025-01-02,CUST0166,25,Male,Pune,P005,Running Shoes,Fashion,3,1965.04,0.0,5895.12,UPI
+ORD01020,2025-06-14,CUST0260,56,Female,Hyderabad,P004,Cotton T-Shirt,Fashion,1,602.65,5.0,572.52,Net Banking
+ORD01021,2025-09-06,CUST0224,40,Female,Vijayawada,P008,Coffee Maker,Home & Kitchen,1,2587.62,10.0,2328.86,UPI
+ORD01022,2025-04-08,CUST0265,37,Male,Delhi,P002,Bluetooth Speaker,Electronics,4,2173.95,10.0,7826.22,Credit Card
+ORD01023,2025-04-04,CUST0063,51,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,4,372.84,0.0,1491.36,Credit Card
+ORD01024,2025-12-25,CUST0138,40,Male,Pune,P005,Running Shoes,Fashion,1,1716.59,20.0,1373.27,UPI
+ORD01025,2025-01-27,CUST0047,39,Male,Chennai,P001,Wireless Earbuds,Electronics,3,1484.37,0.0,4453.11,UPI
+ORD01026,2025-07-30,CUST0289,36,Female,Vijayawada,P010,Notebook Set,Stationery,4,244.26,0.0,977.04,Debit Card
+ORD01027,2025-04-17,CUST0183,38,Male,Pune,P001,Wireless Earbuds,Electronics,2,1385.88,0.0,2771.76,Credit Card
+ORD01028,2025-06-06,CUST0169,45,Female,Hyderabad,P011,Pen Pack,Stationery,1,137.17,0.0,137.17,Debit Card
+ORD01029,2025-01-02,CUST0281,18,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2063.97,0.0,2063.97,Net Banking
+ORD01030,2025-04-30,CUST0241,24,Male,Chennai,P001,Wireless Earbuds,Electronics,4,1470.8,10.0,5294.88,Debit Card
+ORD01031,2025-03-09,CUST0179,49,Female,Delhi,P008,Coffee Maker,Home & Kitchen,3,2579.38,0.0,7738.14,Cash on Delivery
+ORD01032,2025-02-09,CUST0170,42,Female,Hyderabad,P004,Cotton T-Shirt,Fashion,1,574.23,0.0,574.23,Credit Card
+ORD01033,2025-08-27,CUST0297,36,Female,Bengaluru,P006,Backpack,Fashion,4,1301.44,0.0,5205.76,Debit Card
+ORD01034,2025-08-28,CUST0031,36,Male,Pune,P009,Desk Lamp,Home & Kitchen,4,895.28,0.0,3581.12,UPI
+ORD01035,2025-10-02,CUST0012,20,Female,Vijayawada,P010,Notebook Set,Stationery,2,267.72,10.0,481.9,Credit Card
+ORD01036,2025-12-28,CUST0127,29,Male,Chennai,P010,Notebook Set,Stationery,2,233.76,5.0,444.14,Cash on Delivery
+ORD01037,2025-11-20,CUST0121,30,Female,Delhi,P002,Bluetooth Speaker,Electronics,4,2141.15,0.0,8564.6,Cash on Delivery
+ORD01038,2025-02-21,CUST0099,33,Female,Mumbai,P011,Pen Pack,Stationery,4,161.43,20.0,516.58,Debit Card
+ORD01039,2025-10-29,CUST0198,41,Male,Hyderabad,P011,Pen Pack,Stationery,3,159.72,0.0,479.16,Net Banking
+ORD01040,2025-09-29,CUST0227,37,Male,Pune,P012,Novel,Books,3,520.92,10.0,1406.48,UPI
+ORD01041,2025-04-21,CUST0229,34,Male,Vijayawada,P012,Novel,Books,2,547.52,0.0,1095.04,Net Banking
+ORD01042,2025-08-10,CUST0060,46,Female,Chennai,P010,Notebook Set,Stationery,1,263.19,0.0,263.19,Debit Card
+ORD01043,2025-05-02,CUST0151,44,Male,Delhi,P008,Coffee Maker,Home & Kitchen,3,2770.09,15.0,7063.73,Credit Card
+ORD01044,2025-04-13,CUST0201,18,Female,Bengaluru,P012,Novel,Books,4,507.33,0.0,2029.32,Net Banking
+ORD01045,2025-02-03,CUST0096,18,Male,Vijayawada,P004,Cotton T-Shirt,Fashion,4,605.47,10.0,2179.69,Cash on Delivery
+ORD01046,2025-05-12,CUST0218,37,Male,Hyderabad,P007,Water Bottle,Home & Kitchen,2,360.08,20.0,576.13,Cash on Delivery
+ORD01047,2025-03-09,CUST0176,40,Male,Mumbai,P004,Cotton T-Shirt,Fashion,4,572.86,0.0,2291.44,Net Banking
+ORD01048,2025-09-11,CUST0076,33,Female,Delhi,P012,Novel,Books,2,512.79,0.0,1025.58,Credit Card
+ORD01049,2025-12-02,CUST0163,59,Female,Delhi,P001,Wireless Earbuds,Electronics,1,1471.08,0.0,1471.08,Debit Card
+ORD01050,2025-05-09,CUST0026,53,Male,Warangal,P010,Notebook Set,Stationery,3,267.12,0.0,801.36,UPI
+ORD01051,2025-08-08,CUST0160,28,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,4,2384.26,0.0,9537.04,UPI
+ORD01052,2025-04-14,CUST0104,30,Female,Warangal,P008,Coffee Maker,Home & Kitchen,4,2934.79,0.0,11739.16,Credit Card
+ORD01053,2025-10-11,CUST0122,37,Female,Warangal,P005,Running Shoes,Fashion,2,1973.09,10.0,3551.56,Credit Card
+ORD01054,2025-09-12,CUST0249,26,Female,Chennai,P003,Smart Watch,Electronics,2,3386.81,15.0,5757.58,UPI
+ORD01055,2025-04-19,CUST0213,53,Female,Mumbai,P007,Water Bottle,Home & Kitchen,4,364.64,10.0,1312.7,Cash on Delivery
+ORD01056,2025-06-23,CUST0225,39,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,3,2068.72,10.0,5585.54,Net Banking
+ORD01057,2025-08-26,CUST0160,28,Female,Bengaluru,P008,Coffee Maker,Home & Kitchen,3,3025.36,20.0,7260.86,Cash on Delivery
+ORD01058,2025-04-15,CUST0179,49,Female,Delhi,P004,Cotton T-Shirt,Fashion,2,582.68,10.0,1048.82,Net Banking
+ORD01059,2025-02-21,CUST0010,54,Female,Delhi,P001,Wireless Earbuds,Electronics,4,1618.98,15.0,5504.53,Debit Card
+ORD01060,2025-01-16,CUST0286,55,Female,Bengaluru,P003,Smart Watch,Electronics,2,3697.79,0.0,7395.58,Net Banking
+ORD01061,2025-12-30,CUST0179,49,Female,Delhi,P002,Bluetooth Speaker,Electronics,2,1992.39,5.0,3785.54,UPI
+ORD01062,2025-09-26,CUST0196,55,Male,Pune,P007,Water Bottle,Home & Kitchen,3,379.5,0.0,1138.5,Cash on Delivery
+ORD01063,2025-03-21,CUST0176,40,Male,Mumbai,P010,Notebook Set,Stationery,1,258.8,10.0,232.92,Net Banking
+ORD01064,2025-08-30,CUST0057,49,Female,Bengaluru,P004,Cotton T-Shirt,Fashion,1,632.44,0.0,632.44,UPI
+ORD01065,2025-12-06,CUST0121,30,Female,Delhi,P006,Backpack,Fashion,2,1315.08,0.0,2630.16,Net Banking
+ORD01066,2025-08-14,CUST0294,34,Male,Warangal,P001,Wireless Earbuds,Electronics,2,1479.13,0.0,2958.26,Debit Card
+ORD01067,2025-09-09,CUST0090,24,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,2,543.99,10.0,979.18,Credit Card
+ORD01068,2025-02-14,CUST0061,24,Female,Mumbai,P008,Coffee Maker,Home & Kitchen,2,2601.13,10.0,4682.03,Debit Card
+ORD01069,2025-03-01,CUST0152,53,Female,Mumbai,P005,Running Shoes,Fashion,1,1795.13,15.0,1525.86,Net Banking
+ORD01070,2025-08-05,CUST0081,31,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,4,2124.76,10.0,7649.14,UPI
+ORD01071,2025-01-12,CUST0090,24,Female,Vijayawada,P006,Backpack,Fashion,2,1418.49,0.0,2836.98,UPI
+ORD01072,2025-10-06,CUST0107,35,Female,Warangal,P012,Novel,Books,2,497.95,0.0,995.9,Cash on Delivery
+ORD01073,2025-08-24,CUST0277,31,Female,Warangal,P012,Novel,Books,1,543.97,15.0,462.37,Cash on Delivery
+ORD01074,2025-01-05,CUST0279,26,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,3,2136.24,10.0,5767.85,Debit Card
+ORD01075,2025-09-25,CUST0096,18,Male,Vijayawada,P006,Backpack,Fashion,2,1192.96,15.0,2028.03,Debit Card
+ORD01076,2025-01-27,CUST0062,45,Male,Hyderabad,P001,Wireless Earbuds,Electronics,4,1395.73,15.0,4745.48,UPI
+ORD01077,2025-09-27,CUST0048,28,Female,Bengaluru,P010,Notebook Set,Stationery,1,271.93,0.0,271.93,Credit Card
+ORD01078,2025-08-31,CUST0248,28,Female,Delhi,P005,Running Shoes,Fashion,2,1913.2,0.0,3826.4,Debit Card
+ORD01079,2025-09-30,CUST0012,20,Female,Vijayawada,P007,Water Bottle,Home & Kitchen,3,373.03,20.0,895.27,Cash on Delivery
+ORD01080,2025-06-08,CUST0160,28,Female,Bengaluru,P003,Smart Watch,Electronics,1,3601.13,0.0,3601.13,UPI
+ORD01081,2025-02-10,CUST0193,24,Other,Chennai,P009,Desk Lamp,Home & Kitchen,3,828.2,10.0,2236.14,Credit Card
+ORD01082,2025-06-19,CUST0017,35,Male,Bengaluru,P004,Cotton T-Shirt,Fashion,4,634.48,5.0,2411.02,UPI
+ORD01083,2025-08-19,CUST0202,49,Male,Delhi,P002,Bluetooth Speaker,Electronics,2,2006.78,20.0,3210.85,Cash on Delivery
+ORD01084,2025-12-03,CUST0063,51,Female,Hyderabad,P011,Pen Pack,Stationery,3,137.92,5.0,393.07,Credit Card
+ORD01085,2025-12-31,CUST0158,39,Male,Bengaluru,P007,Water Bottle,Home & Kitchen,3,361.17,0.0,1083.51,Credit Card
+ORD01086,2025-04-05,CUST0106,57,Female,Pune,P012,Novel,Books,2,537.31,15.0,913.43,Net Banking
+ORD01087,2025-05-31,CUST0246,43,Female,Pune,P002,Bluetooth Speaker,Electronics,3,2307.14,0.0,6921.42,Net Banking
+ORD01088,2025-06-18,CUST0199,49,Male,Delhi,P011,Pen Pack,Stationery,1,143.74,0.0,143.74,Net Banking
+ORD01089,2025-04-22,CUST0275,53,Male,Delhi,P012,Novel,Books,2,451.45,0.0,902.9,Net Banking
+ORD01090,2025-06-20,CUST0052,37,Female,Bengaluru,P008,Coffee Maker,Home & Kitchen,3,2582.2,15.0,6584.61,Cash on Delivery
+ORD01091,2025-03-03,CUST0159,36,Female,Chennai,P005,Running Shoes,Fashion,1,1861.03,10.0,1674.93,UPI
+ORD01092,2025-02-01,CUST0178,38,Female,Chennai,P006,Backpack,Fashion,1,1308.66,0.0,1308.66,Debit Card
+ORD01093,2025-12-25,CUST0108,19,Female,Pune,P002,Bluetooth Speaker,Electronics,1,2056.52,0.0,2056.52,Debit Card
+ORD01094,2025-04-15,CUST0044,51,Male,Pune,P008,Coffee Maker,Home & Kitchen,3,2767.47,0.0,8302.41,Credit Card
+ORD01095,2025-04-13,CUST0136,48,Male,Hyderabad,P009,Desk Lamp,Home & Kitchen,1,973.66,0.0,973.66,UPI
+ORD01096,2025-09-24,CUST0060,46,Female,Chennai,P002,Bluetooth Speaker,Electronics,4,2335.58,15.0,7940.97,Credit Card
+ORD01097,2025-05-07,CUST0245,22,Female,Mumbai,P007,Water Bottle,Home & Kitchen,4,426.1,10.0,1533.96,Debit Card
+ORD01098,2025-09-29,CUST0090,24,Female,Vijayawada,P003,Smart Watch,Electronics,3,3407.6,20.0,8178.24,UPI
+ORD01099,2025-08-07,CUST0200,59,Male,Chennai,P007,Water Bottle,Home & Kitchen,1,406.97,5.0,386.62,Debit Card
+ORD01100,2025-10-07,CUST0088,25,Male,Warangal,P001,Wireless Earbuds,Electronics,4,1535.48,5.0,5834.82,Cash on Delivery
+ORD01101,2025-01-24,CUST0267,50,Female,Chennai,P004,Cotton T-Shirt,Fashion,4,581.06,0.0,2324.24,Credit Card
+ORD01102,2025-07-24,CUST0199,49,Male,Delhi,P004,Cotton T-Shirt,Fashion,4,575.37,10.0,2071.33,Credit Card
+ORD01103,2025-12-06,CUST0088,25,Male,Warangal,P002,Bluetooth Speaker,Electronics,2,2139.12,0.0,4278.24,Credit Card
+ORD01104,2025-08-13,CUST0053,29,Female,Delhi,P012,Novel,Books,4,473.76,0.0,1895.04,Cash on Delivery
+ORD01105,2025-11-17,CUST0221,21,Male,Delhi,P003,Smart Watch,Electronics,3,3252.69,0.0,9758.07,Cash on Delivery
+ORD01106,2025-01-02,CUST0151,44,Male,Delhi,P005,Running Shoes,Fashion,4,1832.91,20.0,5865.31,UPI
+ORD01107,2025-11-07,CUST0180,40,Female,Chennai,P009,Desk Lamp,Home & Kitchen,1,944.33,10.0,849.9,Debit Card
+ORD01108,2025-09-27,CUST0116,49,Male,Warangal,P008,Coffee Maker,Home & Kitchen,2,2920.45,20.0,4672.72,Cash on Delivery
+ORD01109,2025-04-18,CUST0063,51,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,1,398.16,10.0,358.34,Debit Card
+ORD01110,2025-07-29,CUST0129,54,Male,Delhi,P008,Coffee Maker,Home & Kitchen,4,2846.37,5.0,10816.21,UPI
+ORD01111,2025-12-01,CUST0073,41,Male,Chennai,P008,Coffee Maker,Home & Kitchen,3,2750.7,5.0,7839.5,Debit Card
+ORD01112,2025-04-16,CUST0143,45,Male,Mumbai,P012,Novel,Books,3,455.82,15.0,1162.34,Net Banking
+ORD01113,2025-07-23,CUST0160,28,Female,Bengaluru,P007,Water Bottle,Home & Kitchen,2,363.69,5.0,691.01,Debit Card
+ORD01114,2025-06-15,CUST0129,54,Male,Delhi,P004,Cotton T-Shirt,Fashion,3,544.75,0.0,1634.25,Cash on Delivery
+ORD01115,2025-08-17,CUST0278,58,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,2,2646.09,0.0,5292.18,UPI
+ORD01116,2025-08-19,CUST0251,52,Female,Pune,P012,Novel,Books,3,455.96,0.0,1367.88,Debit Card
+ORD01117,2025-08-13,CUST0164,26,Female,Delhi,P008,Coffee Maker,Home & Kitchen,1,2524.92,10.0,2272.43,Credit Card
+ORD01118,2025-08-23,CUST0221,21,Male,Delhi,P008,Coffee Maker,Home & Kitchen,4,2552.11,0.0,10208.44,Credit Card
+ORD01119,2025-06-03,CUST0218,37,Male,Hyderabad,P003,Smart Watch,Electronics,4,3198.88,0.0,12795.52,Debit Card
+ORD01120,2025-06-28,CUST0201,18,Female,Bengaluru,P007,Water Bottle,Home & Kitchen,2,415.87,5.0,790.15,UPI
+ORD01121,2025-10-18,CUST0051,33,Female,Vijayawada,P005,Running Shoes,Fashion,1,2006.84,0.0,2006.84,Credit Card
+ORD01122,2025-10-28,CUST0187,52,Male,Bengaluru,P010,Notebook Set,Stationery,1,253.0,0.0,253.0,UPI
+ORD01123,2025-11-19,CUST0085,59,Female,Bengaluru,P003,Smart Watch,Electronics,4,3460.44,5.0,13149.67,UPI
+ORD01124,2025-09-15,CUST0109,53,Male,Warangal,P005,Running Shoes,Fashion,2,1786.17,10.0,3215.11,Net Banking
+ORD01125,2025-09-30,CUST0048,28,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,4,2163.17,0.0,8652.68,Credit Card
+ORD01126,2025-12-29,CUST0159,36,Female,Chennai,P002,Bluetooth Speaker,Electronics,1,2071.43,0.0,2071.43,Cash on Delivery
+ORD01127,2025-08-28,CUST0180,40,Female,Chennai,P011,Pen Pack,Stationery,2,158.9,10.0,286.02,Debit Card
+ORD01128,2025-03-25,CUST0261,48,Male,Delhi,P009,Desk Lamp,Home & Kitchen,2,907.84,15.0,1543.33,Debit Card
+ORD01129,2025-07-30,CUST0175,49,Male,Mumbai,P002,Bluetooth Speaker,Electronics,4,2310.9,0.0,9243.6,Net Banking
+ORD01130,2025-09-30,CUST0261,48,Male,Delhi,P007,Water Bottle,Home & Kitchen,2,372.93,0.0,745.86,Debit Card
+ORD01131,2025-01-26,CUST0250,40,Female,Bengaluru,P001,Wireless Earbuds,Electronics,4,1407.64,10.0,5067.5,UPI
+ORD01132,2025-03-30,CUST0268,32,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,3,551.75,15.0,1406.96,Debit Card
+ORD01133,2025-04-17,CUST0050,32,Female,Hyderabad,P009,Desk Lamp,Home & Kitchen,1,831.38,15.0,706.67,Cash on Delivery
+ORD01134,2025-01-17,CUST0257,53,Male,Hyderabad,P008,Coffee Maker,Home & Kitchen,1,2980.19,0.0,2980.19,UPI
+ORD01135,2025-07-15,CUST0288,47,Female,Delhi,P010,Notebook Set,Stationery,3,244.74,15.0,624.09,Debit Card
+ORD01136,2025-07-18,CUST0252,23,Female,Vijayawada,P010,Notebook Set,Stationery,1,254.78,5.0,242.04,Cash on Delivery
+ORD01137,2025-09-08,CUST0097,19,Female,Hyderabad,P012,Novel,Books,4,459.49,0.0,1837.96,Debit Card
+ORD01138,2025-12-22,CUST0248,28,Female,Delhi,P003,Smart Watch,Electronics,4,3217.92,10.0,11584.51,UPI
+ORD01139,2025-01-26,CUST0100,19,Male,Warangal,P001,Wireless Earbuds,Electronics,2,1615.57,15.0,2746.47,Cash on Delivery
+ORD01140,2025-05-31,CUST0265,37,Male,Delhi,P010,Notebook Set,Stationery,3,240.16,0.0,720.48,Net Banking
+ORD01141,2025-11-20,CUST0046,58,Female,Warangal,P004,Cotton T-Shirt,Fashion,3,620.66,15.0,1582.68,Cash on Delivery
+ORD01142,2025-12-18,CUST0047,39,Male,Chennai,P006,Backpack,Fashion,4,1328.29,15.0,4516.19,Cash on Delivery
+ORD01143,2025-09-20,CUST0051,33,Female,Vijayawada,P005,Running Shoes,Fashion,1,1952.3,10.0,1757.07,Credit Card
+ORD01144,2025-01-02,CUST0270,48,Female,Warangal,P005,Running Shoes,Fashion,3,1734.79,20.0,4163.5,UPI
+ORD01145,2025-12-20,CUST0124,50,Male,Mumbai,P012,Novel,Books,1,452.77,0.0,452.77,Credit Card
+ORD01146,2025-04-29,CUST0228,33,Male,Hyderabad,P004,Cotton T-Shirt,Fashion,4,549.39,0.0,2197.56,Cash on Delivery
+ORD01147,2025-03-29,CUST0225,39,Female,Hyderabad,P006,Backpack,Fashion,2,1182.91,0.0,2365.82,Credit Card
+ORD01148,2025-10-27,CUST0274,54,Male,Chennai,P005,Running Shoes,Fashion,3,2063.01,0.0,6189.03,Debit Card
+ORD01149,2025-08-13,CUST0284,52,Male,Delhi,P005,Running Shoes,Fashion,4,1842.62,10.0,6633.43,Net Banking
+ORD01150,2025-12-25,CUST0241,24,Male,Chennai,P002,Bluetooth Speaker,Electronics,4,2085.88,0.0,8343.52,Debit Card
+ORD01151,2025-09-16,CUST0110,42,Male,Vijayawada,P001,Wireless Earbuds,Electronics,3,1513.68,10.0,4086.94,Net Banking
+ORD01152,2025-03-08,CUST0027,52,Female,Delhi,P005,Running Shoes,Fashion,4,2086.75,15.0,7094.95,Debit Card
+ORD01153,2025-09-27,CUST0156,36,Male,Chennai,P003,Smart Watch,Electronics,1,3764.38,15.0,3199.72,Cash on Delivery
+ORD01154,2025-02-12,CUST0244,38,Male,Chennai,P012,Novel,Books,2,530.93,0.0,1061.86,Cash on Delivery
+ORD01155,2025-10-09,CUST0052,37,Female,Bengaluru,P002,Bluetooth Speaker,Electronics,4,2254.18,5.0,8565.88,Cash on Delivery
+ORD01156,2025-11-22,CUST0273,45,Male,Warangal,P007,Water Bottle,Home & Kitchen,3,390.71,10.0,1054.92,Debit Card
+ORD01157,2025-07-25,CUST0206,19,Female,Pune,P010,Notebook Set,Stationery,3,249.44,10.0,673.49,Net Banking
+ORD01158,2025-05-04,CUST0212,18,Male,Hyderabad,P010,Notebook Set,Stationery,4,227.22,5.0,863.44,Cash on Delivery
+ORD01159,2025-09-05,CUST0234,29,Female,Pune,P001,Wireless Earbuds,Electronics,3,1563.92,5.0,4457.17,Cash on Delivery
+ORD01160,2025-05-02,CUST0239,44,Female,Chennai,P003,Smart Watch,Electronics,2,3290.39,0.0,6580.78,Credit Card
+ORD01161,2025-11-05,CUST0152,53,Female,Mumbai,P009,Desk Lamp,Home & Kitchen,2,938.72,0.0,1877.44,Debit Card
+ORD01162,2025-09-23,CUST0110,42,Male,Vijayawada,P006,Backpack,Fashion,1,1347.51,5.0,1280.13,Credit Card
+ORD01163,2025-09-02,CUST0156,36,Male,Chennai,P010,Notebook Set,Stationery,2,238.96,0.0,477.92,Credit Card
+ORD01164,2025-11-28,CUST0197,38,Female,Mumbai,P008,Coffee Maker,Home & Kitchen,3,2573.06,5.0,7333.22,Net Banking
+ORD01165,2025-03-14,CUST0266,51,Female,Pune,P006,Backpack,Fashion,1,1267.04,0.0,1267.04,Cash on Delivery
+ORD01166,2025-02-08,CUST0082,59,Male,Warangal,P008,Coffee Maker,Home & Kitchen,3,2777.88,20.0,6666.91,Net Banking
+ORD01167,2025-02-06,CUST0263,46,Male,Hyderabad,P003,Smart Watch,Electronics,3,3698.68,20.0,8876.83,Net Banking
+ORD01168,2025-06-05,CUST0260,56,Female,Hyderabad,P002,Bluetooth Speaker,Electronics,1,2089.61,15.0,1776.17,UPI
+ORD01169,2025-07-07,CUST0253,49,Female,Mumbai,P007,Water Bottle,Home & Kitchen,3,403.35,0.0,1210.05,Debit Card
+ORD01170,2025-09-11,CUST0181,23,Male,Vijayawada,P007,Water Bottle,Home & Kitchen,1,410.65,10.0,369.59,Cash on Delivery
+ORD01171,2025-10-29,CUST0174,58,Male,Vijayawada,P004,Cotton T-Shirt,Fashion,2,624.82,0.0,1249.64,Credit Card
+ORD01172,2025-07-30,CUST0059,18,Female,Delhi,P008,Coffee Maker,Home & Kitchen,3,2681.12,0.0,8043.36,UPI
+ORD01173,2025-06-24,CUST0024,54,Male,Chennai,P002,Bluetooth Speaker,Electronics,1,2246.23,0.0,2246.23,UPI
+ORD01174,2025-03-20,CUST0214,59,Female,Warangal,P012,Novel,Books,2,480.19,10.0,864.34,Credit Card
+ORD01175,2025-06-29,CUST0214,59,Female,Warangal,P012,Novel,Books,2,453.29,0.0,906.58,Debit Card
+ORD01176,2025-02-12,CUST0048,28,Female,Bengaluru,P009,Desk Lamp,Home & Kitchen,4,824.36,5.0,3132.57,Net Banking
+ORD01177,2025-11-06,CUST0097,19,Female,Hyderabad,P007,Water Bottle,Home & Kitchen,3,361.3,10.0,975.51,Credit Card
+ORD01178,2025-12-17,CUST0035,43,Male,Hyderabad,P002,Bluetooth Speaker,Electronics,4,2211.83,15.0,7520.22,UPI
+ORD01179,2025-02-20,CUST0163,59,Female,Delhi,P001,Wireless Earbuds,Electronics,3,1588.29,5.0,4526.63,Credit Card
+ORD01180,2025-07-31,CUST0265,37,Male,Delhi,P007,Water Bottle,Home & Kitchen,3,408.86,0.0,1226.58,Credit Card
+ORD01181,2025-02-08,CUST0216,59,Female,Vijayawada,P012,Novel,Books,3,501.9,0.0,1505.7,Cash on Delivery
+ORD01182,2025-11-19,CUST0080,49,Female,Pune,P007,Water Bottle,Home & Kitchen,3,422.78,15.0,1078.09,Cash on Delivery
+ORD01183,2025-06-19,CUST0073,41,Male,Chennai,P004,Cotton T-Shirt,Fashion,3,540.22,10.0,1458.59,Net Banking
+ORD01184,2025-07-02,CUST0091,54,Female,Vijayawada,P004,Cotton T-Shirt,Fashion,3,559.38,15.0,1426.42,Net Banking
+ORD01185,2025-01-17,CUST0194,18,Female,Pune,P011,Pen Pack,Stationery,1,163.68,0.0,163.68,Net Banking
+ORD01186,2025-03-25,CUST0093,18,Female,Delhi,P008,Coffee Maker,Home & Kitchen,1,2668.86,0.0,2668.86,Debit Card
+ORD01187,2025-08-28,CUST0171,49,Female,Warangal,P005,Running Shoes,Fashion,3,2026.62,10.0,5471.87,Cash on Delivery
+ORD01188,2025-11-22,CUST0179,49,Female,Delhi,P010,Notebook Set,Stationery,1,264.74,0.0,264.74,UPI
+ORD01189,2025-09-01,CUST0051,33,Female,Vijayawada,P001,Wireless Earbuds,Electronics,3,1459.54,10.0,3940.76,Net Banking
+ORD01190,2025-10-31,CUST0105,59,Female,Hyderabad,P003,Smart Watch,Electronics,2,3469.58,0.0,6939.16,UPI
+ORD01191,2025-07-19,CUST0064,26,Male,Bengaluru,P008,Coffee Maker,Home & Kitchen,4,2561.24,10.0,9220.46,Credit Card
+ORD01192,2025-12-26,CUST0093,18,Female,Delhi,P011,Pen Pack,Stationery,1,138.74,0.0,138.74,Debit Card
+ORD01193,2025-03-29,CUST0291,43,Female,Chennai,P009,Desk Lamp,Home & Kitchen,1,948.05,0.0,948.05,Credit Card
+ORD01194,2025-05-22,CUST0187,52,Male,Bengaluru,P008,Coffee Maker,Home & Kitchen,4,2734.93,5.0,10392.73,UPI
+ORD01195,2025-12-20,CUST0143,45,Male,Mumbai,P012,Novel,Books,1,471.16,10.0,424.04,Credit Card
+ORD01196,2025-11-27,CUST0104,30,Female,Warangal,P011,Pen Pack,Stationery,1,153.94,5.0,146.24,Debit Card
+ORD01197,2025-05-03,CUST0076,33,Female,Delhi,P010,Notebook Set,Stationery,3,257.32,0.0,771.96,Debit Card
+ORD01198,2025-12-15,CUST0013,47,Male,Delhi,P005,Running Shoes,Fashion,2,2069.92,0.0,4139.84,Debit Card
+ORD01199,2025-12-18,CUST0145,57,Male,Mumbai,P009,Desk Lamp,Home & Kitchen,3,972.35,5.0,2771.2,UPI
+ORD01200,2025-01-24,CUST0113,40,Female,Bengaluru,P010,Notebook Set,Stationery,3,264.73,15.0,675.06,Net Banking
